@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Shixiong Xu | International organizations, legitimacy, reputation, and human rights research.">
+<title>Shixiong Xu | Academic Website</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="header"><div class="container top"><a class="brand" href="#home">Shixiong Xu</a><nav aria-label="Primary navigation"><a href="#home" data-page="home">Home</a><a href="#cv" data-page="cv">CV</a><a href="#research" data-page="research">Research</a></nav></div></header>
+<main class="container">
+<section class="page" id="home">
+  <div class="home-layout">
+    <div class="home-intro">
+      <h1>Welcome!</h1>
+      <p>I am Ryan (Shixiong) Xu, a researcher at the University of Chicago, where I received my M.A. in International Relations.</p>
+      <p>My work examines the strategic role of legitimacy, reputation, credibility, and trust in international organizations' decision-making, especially in human rights governance.</p>
+      <div class="home-about">
+        <h2>Research</h2>
+        <p>I study how international organizations respond to contested legitimacy, and how organizational actors interpret the expectations of different audiences.</p>
+        <p>My approach brings together international relations, organizational theory, computational text analysis, and perspectives from gender and queer theory.</p>
+        <p class="home-links"><a href="#research">Research →</a><a href="#cv">Curriculum Vitae →</a></p>
+      </div>
+    </div>
+    <figure class="home-photo"><img src="assets/sequoia-home.jpg" alt="Ryan standing beside a giant sequoia tree in a sunlit forest" loading="eager"><figcaption>Among the Sequoias.</figcaption></figure>
+  </div>
+</section>
+<section class="page" id="cv" hidden>
+  <div class="cv-simple">
+    <p>You can find my CV <strong><a href="https://drive.google.com/file/d/1ClbMkViQmfa3kNQ5SDHeIxJg6NuLlFEK/view?usp=drive_link" target="_blank" rel="noopener noreferrer">here</a></strong>.<br><span class="cv-updated">(last updated September 2026).</span></p>
+  </div>
+</section>
+<section class="page research-page" id="research" hidden>
+  <h1>Research</h1>
+  <p class="research-statement">I am interested in how legitimacy, reputation, credibility, and trust shape organizational behavior and decision-making, particularly in international organizations and global governance. My research brings together perspectives from organizational studies and international relations.</p>
+
+  <section class="research-section" aria-labelledby="own-research">
+    <h2 id="own-research">My Latest Research</h2>
+    <article class="research-work">
+      <h3>Self-Legitimation Through Naming and Shaming: Evidence from the UN High Commissioner for Human Rights, 2006–2026</h3>
+      <p>This project examines how UN human rights officials use public naming and shaming to respond to legitimacy challenges facing the Human Rights Council, and how these statements can function as institutional self-legitimation.</p>
+    </article>
+  </section>
+
+  <section class="research-section" aria-labelledby="latest-scholarship">
+    <h2 id="latest-scholarship">Latest Research in My Areas of Interest</h2>
+    <div class="paper-controls" aria-label="Filter recent publications">
+      <label for="topic-filter">Topic
+        <select id="topic-filter"><option value="all">All themes</option><option value="legitimacy">Legitimacy</option><option value="reputation">Reputation</option><option value="credibility">Credibility</option><option value="trust">Trust</option></select>
+      </label>
+      <label for="sort-filter">Sort
+        <select id="sort-filter"><option value="newest">Newest first</option><option value="relevance">Most relevant</option><option value="oldest">Oldest first</option></select>
+      </label>
+    </div>
+    <div id="monthly-overview" class="monthly-overview" aria-live="polite" hidden></div>
+    <div id="papers" class="papers" aria-live="polite"><p class="research-empty">Recent publications will appear here after the research feed is connected.</p></div>
+  </section>
+</section>
+</main>
+<footer class="footer container"><span>© <span id="year"></span> Shixiong Xu</span></footer>
+<script src="script.js"></script>
+</body></html>
