@@ -15,18 +15,55 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent
 OUTPUT = ROOT / 'papers.json'
 THEMES = ('legitimacy', 'reputation', 'credibility', 'trust')
+# Curated searches: OpenAlex must match these in the title and/or abstract,
+# not only somewhere in the full text or inferred index keywords.
 QUERIES = [
-    'international organizations legitimacy',
-    'international organizations reputation',
-    'international institutions credibility',
-    'international organizations trust',
-    'global governance institutional legitimacy',
-    'human rights organization legitimation',
-    'organizational legitimacy audience',
+    '"international organizations" legitimacy',
+    '"international organizations" reputation',
+    '"international institutions" credibility',
+    '"international organizations" trust',
+    '"global governance" legitimacy',
+    '"human rights" legitimation',
+    '"United Nations" legitimacy',
+    '"organizational legitimacy"',
+    '"organizational reputation"',
+    '"institutional legitimacy" "international relations"',
 ]
-CONTEXT = ('international organization', 'united nations', 'global governance', 'human rights',
-           'international institution', 'intergovernmental', 'institutional', 'organization', 'audience')
-
+CORE_PATTERNS = {
+    'legitimacy': r"\b(?:legitimacy|legitimation|legitimization|legitimisation|self-legitimation)\b",
+    'reputation': r"\b(?:reputation|reputational)\b",
+    'credibility': r"\b(?:credibility|credible)\b",
+    'trust': r"\b(?:trust|trustworthiness|distrust|mistrust)\b",
+}
+# Named international institutions/contexts take priority. Generic terms like
+# 'organization', 'institutional', or 'audience' are deliberately insufficient.
+IR_CONTEXT = (
+    'international organization', 'international institution', 'international relations',
+    'international regime', 'intergovernmental', 'multilateral institution',
+    'united nations', 'global governance', 'human rights council',
+    'human rights governance', 'security council', 'world bank',
+    'world trade organization', 'international monetary fund',
+    'international criminal court', 'world health organization',
+    'european union', 'african union', 'international bureaucracy',
+    'global health governance', 'multilateralism',
+)
+# Organizational theory papers also qualify when the core concept itself
+# is explicitly about organizations, rather than an incidental mention.
+ORG_THEORY_CONTEXT = (
+    'organizational legitimacy', 'organisational legitimacy',
+    'organizational reputation', 'organisational reputation',
+    'organizational credibility', 'organisational credibility',
+    'organizational trust', 'organisational trust',
+    'organizational legitimation', 'institutional legitimacy',
+    'institutional legitimation', 'institutional reputation',
+    'institutional credibility', 'organizational institutionalism',
+    'organizational theory', 'institutional theory',
+)
+# Keep unrelated medical/clinical uses of 'institutional' out of the feed.
+NON_TARGET_CONTEXT = (
+    'neurosurgery', 'patient satisfaction', 'clinical trial', 'nursing care',
+    'surgical outcomes', 'dental practice', 'medical residency',
+)
 
 def abstract_from_index(inv):
     if not inv:
@@ -35,28 +72,44 @@ def abstract_from_index(inv):
     return ' '.join(word for _, word in sorted(slots))[:4500]
 
 
-def request_openalex(query, start_date):
-    params = {'search': query, 'filter': 'from_publication_date:' + start_date,
-          'sort': 'publication_date:desc', 'per_page': 40}
+def request_openalex(query, start_date, end_date):
+    params = {
+        'search.title_and_abstract': query,
+        'filter': f'from_publication_date:{start_date},to_publication_date:{end_date}',
+                'per_page': 50,
+    }
     if os.getenv('OPENALEX_API_KEY'):
         params['api_key'] = os.environ['OPENALEX_API_KEY']
     url = 'https://api.openalex.org/works?' + urllib.parse.urlencode(params)
-    req = urllib.request.Request(url, headers={'User-Agent': 'ShixiongXuAcademicResearchTracker/1.0'})
+    req = urllib.request.Request(url, headers={'User-Agent': 'ShixiongXuAcademicResearchTracker/1.1'})
     with urllib.request.urlopen(req, timeout=30) as response:
         return json.load(response)['results']
 
 
 def score_work(w):
     abstract = abstract_from_index(w.get('abstract_inverted_index'))
-    title = w.get('title') or ''
-    content = (title + ' ' + abstract).lower()
-    topics = [t for t in THEMES if re.search(r'\b' + t + r'\b', content)]
-    if 'legitimation' in content and 'legitimacy' not in topics:
-        topics.append('legitimacy')
-    context = sum(term in content for term in CONTEXT)
-    score = 4 * len(topics) + 2 * context + 3 * sum(t in title.lower() for t in THEMES)
-    if not topics or not context:
+    title = (w.get('title') or '').strip()
+    # Only publish works whose abstracts are actually available, so visitors
+    # can verify why each paper has been included.
+    if not title or not abstract:
         return None
+    title_l = title.lower()
+    content = (title + ' ' + abstract).lower()
+    topics = [topic for topic, pattern in CORE_PATTERNS.items()
+              if re.search(pattern, content, flags=re.I)]
+    if not topics:
+        return None
+    ir_matches = sum(phrase in content for phrase in IR_CONTEXT)
+    theory_matches = sum(phrase in content for phrase in ORG_THEORY_CONTEXT)
+    if not ir_matches and not theory_matches:
+        return None
+    if not ir_matches and any(phrase in content for phrase in NON_TARGET_CONTEXT):
+        return None
+    # Reward core concept in title and explicit international context. Do not
+    # give points for incidental words such as 'audience' or 'organization'.
+    title_topics = sum(bool(re.search(pattern, title_l, flags=re.I))
+                       for pattern in CORE_PATTERNS.values())
+    score = 10 * min(ir_matches, 3) + 5 * min(theory_matches, 2) + 6 * title_topics
     return score, topics, abstract
 
 
@@ -106,18 +159,22 @@ def ai_monthly_summary(client, month, selected):
 
 def main():
     today = dt.date.today()
-    since = (today - dt.timedelta(days=180)).isoformat()
+    since = (today - dt.timedelta(days=365)).isoformat()
     old = load_old_data()
     prior = {p.get('url'): p for p in old.get('papers', [])}
     prior_months = old.get('monthly_summaries', {})
     records = {}
+    failed_queries = 0
     for query in QUERIES:
         try:
-            works = request_openalex(query, since)
+            works = request_openalex(query, since, today.isoformat())
         except Exception as exc:
             print(f'OpenAlex query failed ({query}): {exc}')
+            failed_queries += 1
             continue
         for work in works:
+            if not work.get('publication_date') or work['publication_date'] > today.isoformat():
+                continue
             assessed = score_work(work)
             if not assessed:
                 continue
@@ -144,8 +201,7 @@ def main():
 
     papers = sorted(records.values(), key=lambda p: (p['score'], p['date'] or ''), reverse=True)[:35]
     if not papers:
-        print('No verified results retrieved; retaining prior feed.')
-        return
+        raise RuntimeError(f'No relevant paper records retrieved; {failed_queries}/{len(QUERIES)} searches failed. Existing feed retained. Check queries and API response.')
 
     client = None
     try:
@@ -189,7 +245,7 @@ def main():
 
     OUTPUT.write_text(json.dumps({'updated': today.isoformat(), 'papers': papers,
                                   'monthly_summaries': monthly}, ensure_ascii=False, indent=2) + '\n', encoding='utf-8')
-    print(f'Updated feed: {len(papers)} verified scholarly records; {len(monthly)} monthly AI summaries.')
+    print(f'Updated feed: {len(papers)} high-precision matching paper records; {len(monthly)} monthly AI summaries; {failed_queries} failed queries.')
 
 
 if __name__ == '__main__':
