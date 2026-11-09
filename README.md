@@ -1,4 +1,4 @@
-# Ryan Xu Academic Website
+# Personal Academic Website
 
 A minimal three-tab academic website: **Home / CV / Research**. The research page has one featured project and a searchable scholarly literature feed with topic and sorting controls, paper abstracts, optional AI paper summaries, and monthly AI overviews.
 
