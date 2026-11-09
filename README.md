@@ -1,6 +1,6 @@
 # Ryan Xu Academic Website
 
-A minimal three-tab academic website: **Home / CV / Research**, inspired by the restrained layout of perisadavutoglu.com. The research page has one featured project and a searchable scholarly literature feed with topic and sorting controls, paper abstracts, optional AI paper summaries, and monthly AI overviews.
+A minimal three-tab academic website: **Home / CV / Research**. The research page has one featured project and a searchable scholarly literature feed with topic and sorting controls, paper abstracts, optional AI paper summaries, and monthly AI overviews.
 
 ## Local preview
 
