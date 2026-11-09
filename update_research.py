@@ -37,7 +37,7 @@ def abstract_from_index(inv):
 
 def request_openalex(query, start_date):
     params = {'search': query, 'filter': 'from_publication_date:' + start_date,
-              'sort': '-publication_date', 'per_page': 40}
+          'sort': 'publication_date:desc', 'per_page': 40}
     if os.getenv('OPENALEX_API_KEY'):
         params['api_key'] = os.environ['OPENALEX_API_KEY']
     url = 'https://api.openalex.org/works?' + urllib.parse.urlencode(params)
