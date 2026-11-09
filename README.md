@@ -42,19 +42,3 @@ An automated GitHub Actions workflow in `.github/workflows/research-radar.yml` a
 ## Deploy
 
 Create a GitHub repository, push these files, and enable GitHub Pages. The site works as static HTML/CSS/JS (no paid hosting required). The API requests occur in the Python updater, not in visitors' browsers.
-
-
-## Custom domain: shixiongxu.com (IONOS)
-
-The root `CNAME` file already contains `shixiongxu.com`. After uploading the site, enable GitHub Pages from the `main` branch / root and set **Settings → Pages → Custom domain** to `shixiongxu.com` **before** configuring DNS. GitHub recommends verifying ownership of the domain as well.
-
-In IONOS → Domains & SSL → shixiongxu.com → DNS, use four `A` records for host `@`:
-
-- `185.199.108.153`
-- `185.199.109.153`
-- `185.199.110.153`
-- `185.199.111.153`
-
-For `www`, add a `CNAME` with host `www` and value `YOUR-GITHUB-USERNAME.github.io` (replace the placeholder with your GitHub account name). Delete/replace conflicting parking records only after reviewing what they do. Do not remove MX/TXT records used for email. Enable **Enforce HTTPS** in GitHub Pages once available. DNS propagation may take up to 24 hours. Official documentation: https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
-
-The homepage photo is at `assets/sequoia-home.jpg`. The `CV` tab links to your Google Drive CV; check the sharing permission before publishing. Research Radar needs OpenAlex configuration and an initial update before it displays papers.
