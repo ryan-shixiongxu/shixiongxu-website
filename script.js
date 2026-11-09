@@ -1,3 +1,0 @@
-const tabs=[...document.querySelectorAll('nav a')];
-function route(){const hash=location.hash.replace('#','');const page=['home','cv','research'].includes(hash)?hash:'home';document.querySelectorAll('.page').forEach(el=>el.hidden=el.id!==page);tabs.forEach(a=>{a.classList.toggle('active',a.dataset.page===page);if(a.dataset.page===page)a.setAttribute('aria-current','page');else a.removeAttribute('aria-current')});document.title=`${page==='home'?'Home':page==='cv'?'CV':'Research'} | Shixiong Xu`;window.scrollTo(0,0)}
-window.addEventListener('hashchange',route);route();document.querySelector('#year').textContent=new Date().getFullYear();
