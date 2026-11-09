@@ -2,6 +2,21 @@
   "updated": "2026-11-09",
   "papers": [
     {
+      "title": "Adaptive Reconstruction Governance (ARG): A Unified Framework for Temporal Legitimacy, Adaptive Trust, and Reconstruction Dynamics in Global Governance",
+      "authors": [
+        "Babak Ghaffarzadagan"
+      ],
+      "date": "2026-05-21",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "abstract": "Adaptive Reconstruction Governance (ARG) introduces a unified theoretical and operational framework for adaptive governance, temporal legitimacy, institutional trust, and reconstruction dynamics within complex global systems. The framework integrates Reconstruction Through Dynamics (RTD), Pre-Decision Governance (PDG-IL), adaptive systems theory, foresight-oriented coordination, and dynamic institutional analysis into a coherent governance architecture designed for conditions of accelerating global complexity. ARG does not seek to replace existing multilateral institutions or sovereign governance structures. Instead, it proposes an adaptive analytical and coordination layer intended to strengthen anticipatory governance, institutional synchronization, crisis preparedness, and systemic resilience. The framework introduces:- the RTD Index for measuring institutional delay and adaptive displacement;- the PDAL (Pre-Decision Assessment Layer) for strategic foresight and scenario modeling;- adaptive trust metrics;- temporal legitimacy analysis;- and sandbox-based pilot governance mechanisms. ARG further proposes a low-friction and interoperable implementation pathway compatible with existing United Nations structures, strategic foresight initiatives, humanitarian coordination systems, digital governance frameworks, and multilateral institutional processes. This publication presents the foundational architecture of ARG as an evolving framework for adaptive governance under conditions of continuous systemic transformation.",
+      "topics": [
+        "legitimacy",
+        "trust"
+      ],
+      "score": 42,
+      "url": "https://doi.org/10.5281/zenodo.20326552"
+    },
+    {
       "title": "The Crisis of Global Governance and the Future of International Peace: Rethinking Multilateral Diplomacy in a Fragmented World Order",
       "authors": [
         "Sana Shahid",
@@ -17,303 +32,495 @@
         "credibility",
         "trust"
       ],
-      "score": 20,
+      "score": 40,
       "url": "https://doi.org/10.71317/jgst.2.11.2026.984"
     },
     {
-      "title": "AI in German Media Companies and Digital Industries: Potential for Efficiency, Structural Change, and New Responsibilities",
+      "title": "Multistakeholder partnerships after a decade of sustainable development goals: synergies, effectiveness, legitimacy and the future of sustainability governance",
       "authors": [
-        "Felix Leyendecker"
+        "Karin Bäckstrand",
+        "Magdalena Bexell",
+        "Faradj Koliev",
+        "Philipp H. Pattberg",
+        "Oscar E. Widerberg"
       ],
-      "date": "2026-11-06",
-      "venue": "VNU Journal of Social Sciences and Humanities",
-      "abstract": "Artificial intelligence (AI) has emerged as a pivotal driver of structural transformation in media companies. This article argues that AI must be understood not merely as an efficiency-enhancing tool in German media companies and digital industries, but as an infrastructural force that restructures production, distribution, editorial authority, and public communication. Across media sectors, AI is legitimized through promises of automation, personalization, audience analytics, and cost reduction. In journalism, it is primarily deployed for routinized tasks such as transcription, summarization, data analysis, headline writing, and workflow support. AI does not simply optimize journalism; it shifts the conditions under which journalism remains visible, credible, and accountable. The decisive problem is therefore not technological capability as such, but the diffusion of responsibility within AI-mediated media environments. As search, aggregation, and answer systems increasingly mediate access to information, journalistic content risks becoming detached from recognizable authorship, institutional context, and editorial judgment. AI resilience is defined as the organizational and professional capacity to integrate AI without surrendering editorial accountability, source protection, public trust, or interpretive sovereignty. Its core requirements are clear responsibility chains, transparent labelling, robust verification, audience dialogue, competence building, and institutional governance beyond mere compliance. The broader conclusion is that AI’s value in media industries is conditional: it can enhance productivity and even support diversity, but only where organizations align technological deployment with normative commitments to credibility, traceability, and human judgment. Without such alignment, AI becomes less a productivity tool than a catalyst of invisibility, mistrust, and weakened democratic mediation. Received: 12th May, 2026; Revised: 13th July, 2026; Accepted: 17th September, 2026",
-      "topics": [
-        "credibility",
-        "trust"
-      ],
-      "score": 14,
-      "url": "https://doi.org/10.33100/jossh.2026.2.2.1"
-    },
-    {
-      "title": "Renewable Energy Champions Initiative",
-      "authors": [
-        "REN21"
-      ],
-      "date": "2027-05-07",
-      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "abstract": "REN21 has launched the Renewable Energy Champions Initiative—a bold new effort to fast-track the shift to resilient, renewables-based economies. Announced at the Caribbean Renewable Energy Forum in Miami, the initiative connects national decision makers with a network of former ministers and senior officials from the Global South who have already led successful energy transitions. Accelerating the Shift to Renewable EconomiesThese are leaders who’ve faced tough choices, overcome political and technical barriers, and delivered real change. Through peer-to-peer engagement—bilateral meetings, closed-door sessions and strategic dialogues—they offer direct support to governments navigating the path to renewables. Their approach is grounded in trust, shared experience and a commitment to building strong economies with renewables. The Champions bring compelling stories, policy insights and practical tools to inspire action. They connect countries with critical networks—spanning finance, industry, civil society and international institutions to help unlock investment, build partnerships and move from ambition to implementation. In today’s energy security era, they are a strategic asset for any government ready to act. THE CHAMPIONSJames Fletcher | Former Minister for Public Service, Information, Broadcasting, Sustainable Development, Energy, Science and Technology, Saint LuciaModernised Saint Lucia’s entire energy sector by implementing groundbreaking legislation and regulatory policies, establishing international partnerships, attracting major investment, developing renewable energy projects and fostering inclusive stakeholder engagement. Ramón Méndez Galain | Former Energy Secretary, UruguayTransformed Uruguay’s power sector to 98% renewables – of which 50% is a mix of wind, solar PV and biomass, halved generation costs while building resilience against market volatility, created 50,000 jobs (3% of workforce), and secured electricity access for nearly 100% of Uruguayan households. Seleshi Bekele Awulachew | Former Minister of Water, Irrigation and Energy, EthiopiaProvided transformational leadership in Ethiopia’s energy sector, overseeing the delivery of 7,270 MW of hydropower capacity, including the Grand Ethiopian Renaissance Dam (GERD)—the largest hydropower project in Africa. Expanded renewable-based grid access by an average of 120,000 households per year over five years, while also advancing off-grid renewable solutions that brought electricity to 12 rural towns. Strengthened regional power interconnections across three East African countries, enabling the substitution of expensive, carbon-intensive generation with renewable electricity and supporting regional energy security and economic integration. The initiative is expanding to include more champions from across the Global South. Each brings the credibility of experience and the power of example. Together, they’re helping countries go further, faster, and with confidence.",
-      "topics": [
-        "credibility",
-        "trust"
-      ],
-      "score": 10,
-      "url": "https://doi.org/10.5281/zenodo.23598006"
-    },
-    {
-      "title": "Leading the Way: An Overview of Leadership in Canadian Academic Neurosurgery.",
-      "authors": [
-        "Heather Rossong",
-        "Catherine Veilleux",
-        "John M. Oesch",
-        "Steph Casha",
-        "Jay K. Riva-Cambrin"
-      ],
-      "date": "2026-12-01",
-      "venue": "PubMed Central",
-      "abstract": "BACKGROUND AND OBJECTIVES: Leadership is essential for advancing patient care, education, and health system performance within neurosurgery. However, the demographic composition, career pathways, and lived experiences of academic neurosurgical leaders in Canada remain poorly characterized. To describe the current landscape of formal leadership in Canadian academic neurosurgery and explore leadership pathways, competencies, barriers, and perspectives using a mixed-methods analysis. METHODS: A mixed-methods study was conducted across 14 accredited Canadian academic neurosurgery programs. A cross-sectional analysis identified neurosurgeons holding formal leadership roles in 2024 to 2025 using publicly available data. Demographics, training background, subspecialty, advanced degrees, and scholarly productivity were analyzed using descriptive and comparative statistics. Eligible leaders were invited to participate in semistructured interviews, analyzed using inductive thematic analysis. RESULTS: = .82). Median publications were 61 (IQR 27-132), and the h-index was 19 (IQR 12-33). Twenty-five leaders (57%) participated in qualitative interviews. Seven interconnected themes emerged: (1) nonlinear leadership entry and career trajectory, (2) legitimacy grounded in clinical and academic credibility, (3) limited formal leadership training, (4) influence of identity and culture, (5) incentive structures shaping leadership engagement, (6) essential leadership competencies, and (7) consensus-based, service-oriented leadership styles. CONCLUSION: Leadership in Canadian academic neurosurgery is shaped by informal career pathways, reliance on professional credibility, and limited structured leadership development. Structured mentorship, formal training, and institutional incentives are needed to support future neurosurgical leaders.",
-      "topics": [
-        "legitimacy",
-        "credibility"
-      ],
-      "score": 10,
-      "url": "https://doi.org/10.1227/neuprac.0000000000000305"
-    },
-    {
-      "title": "Anti-corruption policies: examining and evaluating the integration of agencies and whistleblower systems",
-      "authors": [
-        "Ina Kubbe"
-      ],
-      "date": "2026-11-06",
-      "venue": "Public Management Review",
-      "abstract": "This article interrogates dominant anti-corruption evaluation models by foregrounding the integration between Anti-Corruption Agencies (ACAs) and whistleblower systems as a critical yet underexamined determinant of institutional effectiveness. Drawing on institutional theory, regulatory governance, and structured cross-country comparison, it develops a four-part typology of ACA–whistleblower integration regimes (complementary, substitutive, fragmented, and minimalist) based on document-based qualitative evaluation across 13 countries. The findings suggest that institutional coordination and interoperability, rather than the formal existence of anti-corruption institutions alone, are consistently associated with stronger enforcement capacity, greater institutional legitimacy, and higher public trust. The study challenges checklist-based global evaluation models that privilege institutional presence over institutional interaction and proposes an integration-centred framework for assessing integrity systems. By shifting attention from institutional design to institutional integration, the study offers a context-sensitive diagnostic approach for evaluating anti-corruption governance across diverse political and administrative settings.",
-      "topics": [
-        "legitimacy",
-        "trust"
-      ],
-      "score": 10,
-      "url": "https://doi.org/10.1080/14719037.2026.2747054"
-    },
-    {
-      "title": "EXAMINING SME OWNERS' WILLINGNESS TO SUBMIT PERSONAL AND BUSINESS DOCUMENTS AS A PROXY FOR TRUST AND CREDITWORTHINESS: THE PSYCHOLOGICAL COLLATERAL PARADIGM",
-      "authors": [
-        "Taiwo Adewale Muritala"
-      ],
-      "date": "2026-12-22",
-      "venue": "International Journal of Social and Educational Innovation",
-      "abstract": "Abstract Moving beyond the conventional analysis of tangible assets and financial documentation as mere bureaucratic requirements, this research posits that an SME owner's willingness to submit personal and business documents constitutes a critical, non-physical form of collateral. It symbolizes trust, transparency, and commitment to institutional scrutiny. Employing a quantitative survey methodology with 45 management staff from selected Nigerian commercial banks, the study utilized descriptive statistics and chi-square analysis to test its hypotheses. The findings robustly confirm that significant documentation is required by banks (χ² = 47.945 > 7.82) and that proper record-keeping is intrinsically linked to business growth (χ² = 59.737 > 7.82). Crucially, it reveals that a notable minority (13.3%) of SME owners are unwilling to provide required documentation, a barrier not fully explained by a lack of capacity. This study concludes that the documentation process is not only a filter for creditworthiness but also a psychological threshold for entrepreneurs. The paper argues that enhancing SME access to finance requires interventions that address these psychological and trust-based barriers, alongside traditional financial and technical support. Recommendations include designing client engagement strategies that reduce perceived intrusion and building institutional trust to convert psychological reluctance into cooperative transparency. Keywords: Small and medium-scale enterprises, Psychological Collateral, SME Financing, Trust Architecture, Documentation Barrier, Creditworthiness Signaling.",
-      "topics": [
-        "trust"
-      ],
-      "score": 9,
-      "url": "https://doi.org/10.5281/zenodo.18163524"
-    },
-    {
-      "title": "INFLUENCER CREDIBILITY AND TRAVEL DECISION-MAKING AMONG YOUNG GEN Z SOCIAL MEDIA USERS IN PENANG",
-      "authors": [
-        "FATIN HANISAH MOHD HUSNI",
-        "NUR LINA SYAMIMI MOHD NASIR",
-        "HASNIZA ABDULLAH",
-        "Siti Anis Adilah Tarmazi",
-        "Norazah Umar",
-        "AIDA KHALIDA MOHAMED IDRIS"
-      ],
-      "date": "2026-11-07",
-      "venue": "Quantum Journal of Social Sciences and Humanities",
-      "abstract": "Social media has become a significant influence on consumer decisions worldwide, including decisions about where and how to travel. Drawing on the source credibility model, this study examined the relationship between three influencer credibility dimensions, attractiveness, trustworthiness and expertise; and travel decision-making among young Generation Z (Gen Z) social media users in Pulau Pinang, Malaysia. A total of 266 respondents aged 18 to 28 were recruited using non-probability purposive sampling, supported by online snowball distribution through university and young-adult networks. Data were collected through a self-administered online questionnaire adapted from established credibility scales and analysed using descriptive statistics, Pearson correlation, and multiple linear regression. All three dimensions correlated positively and significantly with travel decision-making at the bivariate level. In the regression model, the three dimensions jointly explained 54.3 per cent of the variance, F(3, 262) = 103.68, p < .001. Expertise emerged as the strongest predictor (β = .49, p < .001), followed by attractiveness (β = .23, p < .001), while trustworthiness made no significant unique contribution (β = .10, p = .165), a result attributable to its strong correlation with expertise (r = .80). The achieved sample was predominantly female (82.0 percent), aged 18 to 24 (91.7 percent), and not in paid employment (83.8 percent); the findings therefore characterise this specific segment of young, highly engaged Gen Z social media users rather than the Gen Z population of Pulau Pinang as a whole. The study extends understanding of influencer credibility in a Malaysian travel context and indicates that destination marketers targeting young Gen Z audiences should prioritise demonstrable destination knowledge over visual appeal alone.",
-      "topics": [
-        "credibility"
-      ],
-      "score": 9,
-      "url": "https://doi.org/10.55197/qjssh.v7si5.1746"
-    },
-    {
-      "title": "Deepfakes and the Crisis of Credibility: AI, Disinformation, and the Public Discourse in India",
-      "authors": [
-        "Mohammad Reyaz",
-        "Kaifia Ancer Laskar"
-      ],
-      "date": "2026-11-06",
-      "venue": "VNU Journal of Social Sciences and Humanities",
-      "abstract": "Technological advances have blurred the lines between what is considered to be real and imaginary, natural and synthetic. In the post-truth era, reality itself has seemingly become contested and developments in generative artificial intelligence (AI) have changed both the perceptions of people and their media consumption patterns. The “fake news” ecosystem has created an AI-supported synthetic reality that fuels propaganda and untruths. This article explores the proliferation of “deepfakes” and AI-generated synthetic media in India’s digital space, taking five interrelated themes of political misrepresentation, political rumour, false attribution, manipulation of current affairs, and gendered digital violence. We foreground how AI disinformation impacts the everyday news cycle, politics, and geopolitics in the digital age, typically exploiting audience response and platform logics to amplify reach. The article argues that these AI-generated synthetic deepfakes pose as epistemic disruptions, paving the way for easier deception, and leading to the polarization and humiliation of individuals and communities. The article concludes by drawing attention to critical aspects of the regulatory, technological, and pedagogical response to the emerging crisis of credibility in digital media ecosystems. Received: 11th May, 2026; Revised: 13th July, 2026; Accepted: 17th September, 2026",
-      "topics": [
-        "credibility"
-      ],
-      "score": 9,
-      "url": "https://doi.org/10.33100/jossh.2026.2.2.3"
-    },
-    {
-      "title": "Educational Management Resilience under Low Fertility: Theoretical Construction and Adaptive Mechanisms of County-Level Education Systems in Demographic Decline",
-      "authors": [
-        "Mengjie Wang",
-        "Guang Chen"
-      ],
-      "date": "2026-12-31",
-      "venue": "PhilPapers (PhilPapers Foundation)",
-      "abstract": "Persistent low fertility is shifting education governance from the management of expansion toward the management of contraction under uncertainty. This article develops Educational Management Resilience (EMR) as a theory of how territorial education systems preserve essential public functions while progressively reconfiguring institutions under sustained demographic decline. EMR is conceptualized through absorption, adaptation, and transformation, but the framework departs from generic organizational resilience by making the territorial service portfolio---rather than organizational survival---the object of resilience. It therefore evaluates continuity in access, quality, equity, efficiency, and legitimacy while recognizing that resilient transformation may involve deliberate organizational discontinuity. The article specifies decision boundaries among the three capabilities, theorizes an absorption trap produced by institutional inertia and concentrated political costs, develops a cost-adjusted conceptual measurement model, and consolidates the causal argument into six propositions. Chinese county governance is treated as a theoretically consequential meso-level because school layout, teacher allocation, fiscal responsibility, accessibility, and family choice intersect there. Illustrative county policy episodes demonstrate operationalization without being presented as causal validation. A comparative longitudinal research strategy is then proposed to test the framework under heterogeneous patterns of demographic and spatial decline.",
+      "date": "2026-09-01",
+      "venue": "International Environmental Agreements Politics Law and Economics",
+      "abstract": "Introduction: MSPs and the global politics of sustainable developmentThe adoption of the United Nations 2030 Agenda for Sustainable Development in 2015 marked a significant shift in global governance.The Sustainable Development Goals (SDGs) institutionalized a vision of sustainable development as integrated, universal, and transformative.The 2030 Agenda also reaffirmed multistakeholder partnerships (MSPs) as central implementation mechanisms (UN General Assembly, 2015; Bäckstrand et al., 2022;Higham et al., 2024), not only through SDG 17, but also through the broader \"whole-ofsociety\" approach embedded throughout the Agenda.Partnerships between governments, international organizations, businesses, civil society, scientific actors, and local communities were expected to bridge governance gaps, mobilize resources, foster innovation, and address the complex interdependencies among social, economic, and environmental goals, while improving legitimacy and justice.This Special Issue emerges at a critical moment for global sustainability governance.More than ten years after the adoption of the SDGs, implementation is significantly off track (Pattberg &Bäckstrand, 2023).",
       "topics": [
         "legitimacy"
       ],
-      "score": 8,
-      "url": "https://doi.org/10.17613/n0yjy-npr76"
+      "score": 36,
+      "url": "https://doi.org/10.1007/s10784-026-09733-0"
     },
     {
-      "title": "Representing the brand: A study to examine the best practices for structuring and operating communications teams in higher education institutions",
+      "title": "Self-Legitimation Through Naming and Shaming: Evidence from the United Nations High Commissioner for Human Rights, 2006–2026",
       "authors": [
-        "Margaret L Reisser"
+        "Shixiong Xu"
       ],
-      "date": "2026-12-01",
-      "venue": "UTC Scholar (University of Tennessee at Chattanooga)",
-      "abstract": "As higher education institutions increasingly compete for students, faculty, funding, and recognition, academic leaders are recognizing the essential role communications and public relations professionals play in maintaining and promoting the value of their institutional brands. Much has been written about the value of communications professionals in brand management in the corporate arena. However, it appears less attention has been paid to their role in higher education. This mixed-methods study was undertaken to examine the best practices for structuring and operating communications and public relations organizations for optimal success in promoting the higher education institutions they represent. Communications and public relations professionals from multiple higher education institutions, including that of the researcher, were surveyed about the structure and operations of the communications organizations at their respective institutions. The responses from the 43 participants indicated organizational structure was not a critical factor in communications success. The respondents did identify operational factors that contribute to well-functioning teams, regardless of organizational structure. These include establishing a culture of trust and collaboration within the team, recognition by institutional leaders of the value of communications and public relations to institutional goals, and strategic alignment with institutional leaders. The findings from this study offer insight for developing operational practices that could improve the success of communications organizations at higher education institutions.",
+      "date": "2026-08-01",
+      "venue": "University of Chicago",
+      "abstract": "The Human Rights Council still faces the charges that dissolved the Commission it replaced, and the states with the worst records still escape its scrutiny. Yet the Council is not the only body in the United Nations that names and shames violators, and the High Commissioner for Human Rights, who does so from the Council’s own podium, has been largely ignored by political scientists. I analyze the High Commissioners’ opening statements to the Council from 2006 to 2026 and propose a constructivist “self-legitimation” account, in which the High Commissioner answers the legitimacy deficit of the Council it serves by naming and shaming the violators that the Council will not touch. The analysis finds that the High Commissioner names and shames the powerful rather than sparing them, with permanent members of the Security Council named ten times as often as equally repressive non-permanent-member states, and this is equally evident among the Western permanent members and among China and Russia. Tested alongside three competing accounts, the evidence finds no support for a realist perspective, as power neither deflects the office’s attention nor softens its language, or for a constructivist “social conformity” perspective, as peacekeeping buys no leniency, but supports a liberal “reputation” perspective, as treaty-bound states are named twice as often as comparable states.",
       "topics": [
-        "trust"
+        "legitimacy",
+        "reputation"
       ],
-      "score": 8,
-      "url": "https://openalex.org/W7172074592"
+      "score": 36,
+      "url": "https://doi.org/10.6082/sfajj-6vb41"
     },
     {
-      "title": "CIRCUIT TRAINING IMPLEMENTATION IN INDONESIAN ARMY PHYSICAL EDUCATION A QUALITATIVE CASE STUDY",
+      "title": "A representative United Nations Security Council: is Input Legitimacy Sufficient?",
       "authors": [
-        "Eko Hariyanto",
-        "Thomas Gabriel Joostensz",
-        "Resmanto Widodo Putro",
-        "Sugiri Sugiri"
+        "Miguel Castaneda"
       ],
-      "date": "2026-11-10",
-      "venue": "PENDALAS Jurnal Penelitian Tindakan Kelas dan Pengabdian Masyarakat",
-      "abstract": "Abstrak Penelitian ini mengkaji pelaksanaan pembinaan kesegaran jasmani dan latihan sirkuit di Dinas Jasmani Angkatan Darat, Cimahi, Jawa Barat. Penelitian menggunakan pendekatan kualitatif deskriptif dengan desain studi kasus dan melibatkan 44 informan yang dipilih secara purposif, terdiri atas satu pimpinan institusi, lima kepala seksi, 35 prajurit, dan tiga pakar atau atlet olahraga. Data dikumpulkan melalui observasi, wawancara terstruktur, dan analisis dokumen, kemudian dianalisis melalui reduksi data, penyajian data, serta penarikan dan verifikasi kesimpulan. Triangulasi digunakan untuk memeriksa kredibilitas temuan. Hasil menunjukkan bahwa program telah memiliki jadwal dan standar penilaian, tetapi pelaksanaannya menghadapi rutinitas latihan berulang, keterbatasan penyesuaian beban individu, dan gangguan partisipasi akibat tuntutan tugas. Informan mengaitkan latihan sirkuit dengan variasi aktivitas dan keterlibatan kelompok. Temuan tersebut merupakan persepsi informan, bukan bukti peningkatan fisiologis. Kontribusi penelitian terletak pada penjelasan kontekstual mengenai kesenjangan antara pengaturan program dan pelaksanaan latihan yang adaptif. Pengembangan modul, pemantauan beban, dan penguatan kompetensi pelatih direkomendasikan untuk diuji lebih lanjut. Kata kunci: Latihan Sirkuit; Pendidikan Jasmani Militer; Implementasi Pelatihan; Individualisasi Beban Latihan; TNI Angkatan Darat Abstract Keywords: Qur’an memorization; boarding program; full-day program; tahfidz implementation; learning supervision; school–family partnership.This study examines physical fitness development and circuit training implementation at the Army Physical Training Service in Cimahi, West Java. A descriptive qualitative case study involved 44 purposively selected informants: one institutional leader, five section heads, 35 soldiers, and three sports experts or athletes. Data were collected through observation, structured interviews, and document analysis and analyzed through data reduction, data display, and conclusion drawing and verification. Triangulation supported credibility. The findings identify an established system of training schedules and assessment standards alongside repetitive routines, limited workload individualization, and participation disrupted by operational duties. Informants associated circuit training with exercise variety and group engagement; these accounts indicate perceived benefits rather than measured physiological improvement. Instructor competence, equipment availability, and supervision were identified as relevant implementation conditions. The study offers a contextual account of the gap between formal program organization and adaptive delivery in military physical education. Adaptable training modules, workload monitoring, and instructor development are proposed for subsequent evaluation. The single institutional case does not establish effectiveness or prevalence across the Indonesian Army. Keywords: Circuit Training; Military Physical Education; Training Implementation; Workload Individualization; Indonesian Army",
-      "topics": [
-        "credibility"
-      ],
-      "score": 8,
-      "url": "https://doi.org/10.47006/pendalas.v6i3.890"
-    },
-    {
-      "title": "The Capture of Nicolás Maduro: A Theoretical Analysis of “Might Is Right” in International Politics",
-      "authors": [
-        "Aroyewun Abimbola Tirmidhi"
-      ],
-      "date": "2026-11-06",
-      "venue": "International Journal of innovative inventions in Social Science and Humanities",
-      "abstract": "The United States’ capture of Venezuelan President Nicolás Maduro and his wife, Cilia Flores, in Caracas on 3 January 2026 provides a consequential case for examining the relationship between material power, national interest, sovereignty and international legitimacy. This article analyses the operation through classical realism, structural and offensive realism, while testing realist explanations against liberal institutionalism, constructivism, the English School, critical theory and postcolonial perspectives. It adopts a qualitative, theory-guided case-study approach, drawing on established international-relations scholarship, the United Nations Charter, official United States statements and recent parliamentary and Congressional research briefings. The analysis finds that realist theories help explain the strategic incentives and permissive conditions that can make unilateral action attractive to a great power, particularly where regional primacy, criminal allegations and competition with external powers intersect. However, explanatory power does not itself establish legal or moral justification. The operation raises questions about the prohibition on the use of force, head-of-state immunity, the limits of domestic criminal process as a basis for cross-border military action, and the precedent created for weaker states. The article argues that “might is right” is best treated as a description of power asymmetry rather than a sufficient normative principle. Durable security and political transition require attention to legality, Venezuelan self-determination, regional stability and post-intervention governance.",
+      "date": "2026-06-14",
+      "venue": "St Antony's International Review",
+      "abstract": "This article aims to complement an existing body of literature on the lack of legitimacy in the United Nations Security Council (UNSC). It firstly builds a strong theoretical foundation that supports current reform proposals focused on enhancing participation in the Council. Using the African Union’s (AU) proposition as a case study, the ‘representative approach’ is then evaluated as a legitimation strategy for the UNSC. Both the effectiveness and the viability of the AU’s proposal are assessed through cross-comparisons with competing coalitions and critical analysis grounded on a rich body of literature on legitimation. The main conclusion is that, whilst, in theory, proposals like the AU’s would be effective to legitimise the inputs of the Council, they are unlikely to succeed and are therefore not feasible strategies. This finding reveals that the legitimacy of the UNSC may be constrained by its founding social contract and suggests that legitimation strategies may have to shift beyond structural approaches to reform. To that end, this article ends by foregrounding the procedural approach as a viable and possibly effective way of legitimising the Council, thereby opening a window of opportunity in the discussion of UNSC reform.",
       "topics": [
         "legitimacy"
       ],
-      "score": 8,
-      "url": "https://doi.org/10.58806/ijiissh.2026.v3i11n02"
+      "score": 36,
+      "url": "https://doi.org/10.82556/stair.v21i1.604"
     },
     {
-      "title": "Identifying and Validating the Components of Extra-Role Behaviors of Academic Departments in Social Responsibility: An Exploratory Mixed-Methods Study",
+      "title": "International economic sanctions between legitimacy and human rights",
       "authors": [
-        "Niloofar Kalantari",
-        "Mohammadreza Neyestani",
-        "Mohammadreza Nili"
+        "Ghufran Abdullah"
       ],
-      "date": "2026-12-01",
-      "venue": "DOAJ (DOAJ: Directory of Open Access Journals)",
-      "abstract": "Introduction In recent decades, universities have evolved from purely educational and research institutions into multifunctional organizations that play extensive social, cultural, and economic roles. Within this context, the concept of University Social Responsibility (USR) has emerged as a modern approach in higher education management, emphasizing meaningful interaction between universities and society, responsiveness to social needs, and active engagement in sustainable development. Consequently, universities are now expected not only to generate knowledge, but also to cultivate responsible, ethical, and socially conscious citizens. Academic departments as core units within the university structure are pivotal in fulfilling this responsibility. Their performance influences not only the quality of teaching and research, but also the social standing of universities. In this regard, extra-role behaviors—defined as voluntary actions that go beyond formal duties—acquire particular significance as they enhance collaboration, group cohesion, and organizational culture, thereby facilitating achievement of social objectives by universities. Despite the importance of this issue, a review of the literature reveals that previous studies have largely concentrated on social responsibility at the macro level or on organizational citizenship behaviors with limited attention to identifying the components of extra-role behaviors at the level of academic departments. Hence, the present study aimed to identify and validate the components of extra-role behaviors of academic departments in relation to social responsibility, addressing this question: What dimensions and indicators constitute these behaviors and to what extent are they valid? Materials & Methods This study employed a sequential exploratory mixed-methods (qualitative–quantitative) design with an applied aim in order to comprehensively identify and validate the components and indicators of extra-role behaviors of academic departments within the context of social responsibility. In the qualitative phase, purposive sampling was used to select 15 faculty members and department heads from the fields of humanities, education, and social sciences, all of whom possessed relevant academic and executive experience. Data were collected through semi-structured interviews lasting 30 to 60 minutes, which were conducted both in person and virtually. The data were analyzed by using thematic analysis based on the Attride-Stirling approach, through which initial codes were extracted and subsequently organized into basic, organizing, and global themes. To ensure the trustworthiness of the qualitative findings, such criteria as credibility, confirmability, and transferability were applied. In the quantitative phase, the extracted components were validated by using the perspectives of 15 academic department heads and higher education experts also selected through purposive sampling. The data collection instrument was a researcher-developed questionnaire employing a 5-point Likert scale, the reliability of which was confirmed with a Cronbach’s alpha coefficient of 0.92. Furthermore, the Content Validity Ratio (CVR) was used to assess the content validity of the identified components. Discussion of Results & Conclusion The findings revealed that the extra-role behaviors of academic departments in relation to social responsibility could be conceptualized through 5 key components: (1) efforts to effectively present the department to society and applicants of educational, research, laboratory, and consulting services; (2) adopting a proactive stance toward societal issues and anticipating emerging needs; (3) addressing societal needs at local, regional, national, and international levels; (4) aligning educational activities with societal goals; and (5) facilitating the formation of informal groups under university supervision aimed at the public good. These components were organized into two broader dimensions: \"engagement with society\" and \"social orientation and transformation\". These results suggested that academic departments, beyond their formal functions, can act as active social agents through voluntary actions. The analysis further indicated that realizing social responsibility requires a shift from reactive to proactive approaches, a stronger integration of education with real-world societal issues, and expanded interdisciplinary and inter-organizational interactions. At the same time, c",
+      "date": "2026-06-01",
+      "venue": "Journal of Anbar University for Law and Political Sciences",
+      "abstract": "The United Nations Charter, under Chapter Vll, authorizes the Security Council to take appropriate measures, including the imposition of economic sanctions, when there is a threat to international peace and security. this provides a solid legal basis for economic sanctions, especially when the sanctions decisions are supported by the Council members, although the effects of these sanctions are not without controversy. Moreover, some countries or international organizations continue to impose economic sanctions unilaterally or multilaterally without clear authorization from the United Nations Security Council, the latter are widely criticized for violating the principle of state sovereignty and the rule of law and for risking violating other principles of international law. Moreover, economic sanctions, whether multilateral or unilateral, carry the risk of violating human rights law and international humanitarian law. Whereas the intended objective of these sanctions is to exert more peaceful efforts to resolve international disputes before resorting to military means, but given the contradiction between the two realities, between the need to impose economic sanctions and their harmful effects, It is imperative that further discussions and efforts are made to examine the legitimacy of these sanctions and their impact on human rights, to ensure that economic sanctions programmes are bound by a legal system that ensures they are humane in their implementation and impact.",
       "topics": [
-        "credibility"
+        "legitimacy"
       ],
-      "score": 6,
-      "url": "https://doi.org/10.22108/srspi.2026.144899.2104"
+      "score": 36,
+      "url": "https://doi.org/10.37651/aujlps.2025.165825.1628"
     },
     {
-      "title": "SOCIAL MEDIA AND YOUTH MORAL EDUCATION: CHALLENGES AND OPPORTUNITIES",
+      "title": "Fighting the Infodemic: Global Policy Strategies for Digital Platform Governance and Health Trust",
       "authors": [
-        "Kobil Khakimboyevich Yusupov",
-        "Worldly Knowledge Publishing Centre"
+        "Nor Faiza Mohd Tohit",
+        "Mainul Haque"
       ],
-      "date": "2026-11-08",
+      "date": "2026-02-25",
+      "venue": "Advances in Human Biology",
+      "abstract": "The modern digital age has ushered in unprecedented access to health information, yet this democratization of knowledge has simultaneously spawned a dangerous phenomenon: The infodemic. Defined by the World Health Organization (WHO) as an overabundance of information, both accurate and inaccurate, that proliferates during disease outbreaks and makes it challenging for individuals to identify trustworthy sources and reliable guidance, the infodemic represents one of the most pressing public health challenges of our time.[1] This term, coined initially during the 2003 severe acute respiratory syndrome outbreak, gained renewed prominence during the COVID-19 pandemic when misinformation spread as rapidly as the virus itself, undermining public health responses and threatening lives globally.[2] Digital platforms have fundamentally transformed how health information circulates within societies. An estimated 60% of the global population now relies on social media not merely for social connection but as a primary source of news and health information.[3] While these platforms offer remarkable opportunities for rapid health communication and community engagement, they simultaneously serve as vectors for misinformation and disinformation. Research demonstrates that health misinformation has tangible consequences. During the first 3 months of 2020 alone, nearly 6000 people worldwide were hospitalized due to coronavirus misinformation, with at least 800 deaths potentially attributable to false information.[4] The velocity and reach of digital misinformation have created an environment where falsehoods can outpace facts, leading to reduced adherence to public health measures, increased vaccine hesitancy, and erosion of trust in healthcare systems and authorities.[5] Addressing this crisis requires coordinated global policy strategies that balance freedom of expression with public health protection. International organizations, including the WHO and United Nations Educational, Scientific, and Cultural Organization (UNESCO), have recognized that managing the infodemic is as critical to pandemic control as traditional public health interventions. The World Health Assembly (WHA) Resolution WHA73.[1] explicitly calls on member states to provide reliable content, counter misinformation, and leverage digital technologies across health responses.[1] This editorial examines the multifaceted challenges posed by health misinformation on digital platforms, analyses existing global policy frameworks, explores successful governance models from various countries and proposes strategies to enhance platform accountability while building public trust in health information. The urgency of this matter cannot be overstated. Without adequate governance mechanisms and health literacy initiatives, the foundations of evidence-based medicine and public health are at risk of erosion in an age where anyone with internet access can broadcast health claims to millions. CHALLENGES OF DIGITAL INFORMATION The digital health information ecosystem faces multiple interconnected challenges that collectively undermine public health efforts. Misinformation on digital platforms manifests in various forms, each with distinct characteristics and impacts [Figure 1]. Medical misinformation includes false claims about treatments, cures and mechanisms of disease transmission. During the COVID-19 pandemic, prominent examples included unfounded assertions about hydroxychloroquine as a cure, claims that the virus could not survive in hot weather, and suggestions that consuming large quantities of certain foods could prevent infection.[6] Vaccine-related misinformation represents another critical category, encompassing conspiracy theories about vaccine ingredients, exaggerated claims about adverse effects and completely fabricated links between vaccines and conditions such as autism.[7,8]Figure 1: Types of health misinformation. Illustration Credit: Nor Faiza Mohd. Tohit.The prevalence of health misinformation across social media platforms is alarmingly high [Figure 2]. Systematic reviews have found that misinformation is most prevalent on Twitter and concerns topics related to smoking products, drugs, vaccines and diseases.[9] The rapid spread of this content is facilitated by several platform-specific features, including algorithmic amplification that prioritises engagement over accuracy, echo chambers that expose users primarily to information that confirms their existing be",
+      "topics": [
+        "trust"
+      ],
+      "score": 36,
+      "url": "https://doi.org/10.4103/aihb.aihb_270_25"
+    },
+    {
+      "title": "Political trust in multi-level and global governance",
+      "authors": [
+        "Lisa Dellmuth"
+      ],
+      "date": "2026-01-20",
+      "venue": "Edward Elgar Publishing eBooks",
+      "abstract": "Do individuals trust multi-level and global governance institutions, and to the extent they do, why? In view of pressing transboundary policy challenges, we need a firm evidence base on political trust in the international organizations (IOs) governing the globe, such as the African Union (AU), European Union (EU), Shanghai Cooperation Organization (SCO), Southern Common Market (Mercosur), United Nations (UN), and World Trade Organization (WTO). The chapter discusses how political trust is commonly conceptualized, measured, and studied in relation to IOs. The second section pursues the core purpose of the chapter, namely, identifying avenues for future research. It provides an assessment of how greater cross-fertilization between the literatures on political trust and International Relations (IR) can be achieved. The third, concluding section summarizes the chapter’s message in three key points. First, political trust and IR theories could be more extensively combined to study political trust in multi-level and global governance. Second, more systematic inquiries are needed to explain how ongoing processes of authoritarian diffusion and technological change shape political trust in IOs. Third, we need more theorization and empirical study of political trust formation in the context of informal, private, trans-governmental, or public–private cooperation beyond the multilateral system.",
+      "topics": [
+        "trust"
+      ],
+      "score": 36,
+      "url": "https://doi.org/10.4337/9781035317486.00012"
+    },
+    {
+      "title": "Social Media Metrics and Popular Legitimacy: Content Analysis of Pre– and Post–COVID-19 Public Engagement With the World Health Organization on X",
+      "authors": [
+        "Thierry Warin",
+        "Cristiane Melchior",
+        "Nathalie de Marcellis-Warin"
+      ],
+      "date": "2025-12-08",
+      "venue": "Journal of Medical Internet Research",
+      "abstract": "BACKGROUND: The World Health Organization (WHO) plays a critical role in global health governance, but its popular legitimacy, a measure of public trust and support, has been contested, particularly during crises such as the COVID-19 pandemic. While legitimacy is widely studied through normative and elite-focused approaches, empirical assessments using public discourse remain limited. Social media platforms like X (formerly Twitter) offer real-time data for evaluating public sentiment toward the WHO. OBJECTIVE: This study aims to assess the evolution of the WHO's popular legitimacy from 2008 to 2021 by analyzing public engagement metrics on X, with a particular focus on changes during the COVID-19 pandemic. METHODS: We analyzed 46,667 tweets from the WHO using computational methods, including the retweet-to-reply ratio, sentiment analysis, and longitudinal trend evaluation. Metrics such as likes, retweets, and replies were examined to quantify public sentiment, with the retweet-to-reply ratio serving as a key indicator of controversy and support levels. RESULTS: The WHO's popular legitimacy was stable from 2008 to 2019 but declined significantly during the COVID-19 pandemic, reflecting heightened public scrutiny and criticism. Engagement metrics revealed increased replies relative to retweets during this period, indicating greater controversy in public discourse. CONCLUSIONS: This study demonstrates the feasibility of using social media metrics to measure international organization (IO) legitimacy over time. The findings highlight the impact of global crises on public trust and provide a replicable framework for assessing the legitimacy of other IOs. Social media engagement offers valuable insights for IOs to adapt communication strategies and maintain public trust during crises.",
+      "topics": [
+        "legitimacy",
+        "trust"
+      ],
+      "score": 36,
+      "url": "https://doi.org/10.2196/69959"
+    },
+    {
+      "title": "United Nations Security Council Reform and the Global South: An International Law Perspective",
+      "authors": [
+        "Subham Sahu"
+      ],
+      "date": "2026-06-15",
+      "venue": "Advanced International Journal for Research",
+      "abstract": "The reform of the United Nations Security Council (UNSC) has emerged as one of the most persistent and contentious issues in contemporary international law and global governance. Established in 1945 in the aftermath of the Second World War, the Security Council was designed to maintain international peace and security through a structure that reflected the geopolitical realities of the mid-twentieth century. More than eight decades later, profound transformations in the international community have rendered the Council increasingly unrepresentative of contemporary global power distributions and demographic realities. The growing influence of states from the Global South, particularly emerging powers such as India, Brazil, South Africa, and Nigeria, has intensified demands for a more equitable and democratic Security Council. This article critically examines the legal, political, and normative dimensions of Security Council reform from the perspective of the Global South. It evaluates the historical origins of the Council's composition, the legal framework governing institutional reform under the United Nations Charter, and competing reform proposals advanced by states and regional organizations. The article argues that the existing structure of the Security Council perpetuates historical inequalities embedded within the post-war international order and undermines the legitimacy of collective security mechanisms. While legal obstacles to reform remain significant, particularly due to the veto power exercised by the permanent members, the increasing assertiveness of Global South states presents an opportunity to reconceptualize representation, legitimacy, and accountability within the United Nations system. The article concludes that meaningful reform is essential not only for institutional legitimacy but also for ensuring the continued relevance of the Security Council in addressing twenty-first-century challenges. A reformed Council that incorporates broader representation from the Global South would better reflect the principles of sovereign equality, democratic participation, and inclusive multilateralism that underpin contemporary international law.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 35,
+      "url": "https://doi.org/10.63363/aijfr.2026.v07i03.6376"
+    },
+    {
+      "title": "Rethinking European Leadership in an Era of Geopolitical Fragmentation and Strategic Uncertainty: Toward a Post-Hegemonic Model of Strategic Coordination",
+      "authors": [
+        "Bogdan Costache"
+      ],
+      "date": "2026-05-29",
+      "venue": "International Journal of Education Leadership Artificial Intelligence Computing Business Life Sciences and Society",
+      "abstract": "The contemporary international order is increasingly characterized by geopolitical fragmentation, strategic instability, transactional diplomacy, economic securitization, and the gradual erosion of post-Cold War assumptions regarding liberal global governance. Within this unstable environment, the European Union faces mounting pressure to redefine its geopolitical role amid war in Ukraine, energy insecurity, technological competition, democratic polarization, and weakening predictability within transatlantic relations. Simultaneously, emerging geopolitical tensions surrounding Iran and the broader Middle East continue to generate fears of renewed energy crises, while discussions concerning territorial influence, Arctic security, Greenland, strategic resources, and expanding great-power competition further intensify Europe’s strategic vulnerabilities. This paper argues that Europe’s contemporary geopolitical condition reflects not only structural dependency, but also a deeper crisis of leadership capacity under conditions of permanent uncertainty and fragmented sovereignty. Drawing upon interdisciplinary perspectives from geopolitics, leadership studies, international relations, political economy, and strategic governance, the study develops the concept of “post-hegemonic leadership” as an emerging framework for understanding Europe’s evolving geopolitical role. Unlike classical hegemonic models based upon military dominance, territorial expansion, or unilateral strategic control, post-hegemonic leadership refers to forms of coordination, influence, resilience, and institutional mediation exercised without full sovereignty or overwhelming geopolitical supremacy. The paper argues that Europe increasingly operates through negotiated influence, regulatory power, coalition-building, economic coordination, and crisis management rather than traditional hard-power hegemony. The analysis examines how the Russian invasion of Ukraine transformed European security consciousness, accelerated defense integration debates, exposed military dependence on the United States, and intensified tensions between strategic autonomy and transatlantic reliance. At the same time, instability surrounding Iran and global energy markets revealed the continuing fragility of European energy security and the geopolitical risks associated with external resource dependency. The study further explores how discussions regarding Greenland, Arctic geopolitics, rare earth resources, and territorial influence illustrate the return of strategic competition over geography, resources, and infrastructure in the twenty-first century. These developments challenge Europe’s traditional preference for multilateralism, normative governance, and economic interdependence. The paper also addresses the internal dimension of geopolitical fragmentation by analyzing democratic fatigue, populist expansion, institutional distrust, and societal exhaustion generated by overlapping crises including inflation, ecological transition, migration pressures, technological disruption, and prolonged war anxiety. The findings suggest that Europe increasingly governs through continuous emergency adaptation rather than stable long-term strategic planning. Leadership therefore becomes less associated with domination and more connected to managing complexity, uncertainty, legitimacy, and strategic coordination within highly unstable environments. Ultimately, the study argues that Europe’s future geopolitical relevance may depend not on becoming a traditional superpower, but on developing credible forms of post-hegemonic leadership capable of combining democratic resilience, technological sovereignty, strategic flexibility, institutional legitimacy, and cooperative governance under conditions of systemic fragmentation. The paper contributes to emerging debates concerning the transformation of global leadership, the future of European integration, and the reconfiguration of international order in an age increasingly shaped by geopolitical drift and transactional power politics.",
+      "topics": [
+        "legitimacy",
+        "credibility",
+        "trust"
+      ],
+      "score": 35,
+      "url": "https://doi.org/10.65222/viral.2026.5.30.50"
+    },
+    {
+      "title": "NAVIGATING THE NEW GLOBAL ORDER: THROUGH THE LENS OF PUBLIC INTERNATIONAL LAW",
+      "authors": [
+        "Seema Surendran",
+        "Gayathri N. M",
+        "Ms. Rugma S"
+      ],
+      "date": "2026-05-04",
+      "venue": "Unspecified venue",
+      "abstract": "Abstract Navigating the New Global Order: Through the Lens of Public International Law examines the evolving role of public international law in addressing contemporary global challenges involving sovereignty, institutional legitimacy, human rights, security, maritime governance, treaty obligations, diplomacy, and emerging geopolitical tensions. The edited volume brings together scholarly perspectives on both classical and modern dimensions of international law, including the role of the International Court of Justice, the United Nations Security Council, State responsibility, asylum, extradition, statelessness, diplomatic immunity, the law of the sea, and the legality of force. By engaging with issues such as institutional paralysis, selective justice, maritime disputes, artificial intelligence, and democratic deficit within global governance, the book presents public international law as a dynamic framework that continues to shape international relations, accountability, cooperation, and global justice. It is intended for students, researchers, teachers, legal practitioners, and readers seeking a critical understanding of the legal principles and institutions that influence the new global order. Keywords: Public International Law, Global Order, Sovereignty, International Court of Justice, United Nations, State Responsibility, Treaty Law, Human Rights, Asylum, Extradition, Statelessness, Diplomatic Immunity, UNCLOS, Law of the Sea, Use of Force, International Security, Global Governance, Geopolitics, Legal Accountability, Institutional Reform",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 35,
+      "url": "https://doi.org/10.47716/978-93-92090-40-0"
+    },
+    {
+      "title": "The United Nations and AI Governance",
+      "authors": [
+        "Kinfe Yilma"
+      ],
+      "date": "2025-11-20",
+      "venue": "Routledge eBooks",
+      "abstract": "This chapter examines the role of the United Nations (UN) in the global governance of artificial intelligence (AI). As the only universal body with a clear institutional mandate, the UN holds a unique position in leading the effort towards global AI governance. The chapter explores the UN's role in light of two major AI governance initiatives, namely the initiative that recently concluded with the adoption of the Global Digital Compact and the ongoing discourse at the UN Human Rights Council. After the adoption of the Compact, a set of two AI institutions is in the process of being established thereby marking the culmination of the initiative. The human rights discourse has been running for some time with no end in sight but also in total isolation from other UN AI governance initiatives. The chapter argues that neither of the initiatives effectively marshals the institutional legitimacy and weight of the UN in enabling the global governance of AI.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 35,
+      "url": "https://doi.org/10.4324/9781003607366-4"
+    },
+    {
+      "title": "Temporal Legitimacy and UN80: Timing as a Missing Dimension in Global Governance",
+      "authors": [
+        "Babak Ghaffarzadagan"
+      ],
+      "date": "2026-05-08",
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "abstract": "This article examines the relationship between social media, youth moral education, and socialization. Drawing on studies by Uzbek scholars, Bandura’s social learning theory, and international research, it analyzes the opportunities and challenges of digital communication. The findings identify four key mechanisms influencing moral attitudes: observational learning, social feedback, information credibility, and institutional support. The study highlights the importance of media literacy, ethical responsibility, and cooperation among families, educational institutions, and communities. A five-component framework for digital moral education is proposed to promote critical thinking, respectful communication, and responsible online behavior. The article offers practical recommendations for strengthening youth moral education in Uzbekistan.",
+      "abstract": "As the United Nations approaches its 80th anniversary (UN80), questions concerning institutional timing, adaptive legitimacy, and systemic responsiveness have become increasingly central to the future of global governance. This publication introduces the concept of Temporal Legitimacy as a missing analytical dimension in international law and institutional decision-making. The study argues that contemporary governance systems often fail not only because of political disagreement or structural fragmentation, but because institutions are unable to respond at the appropriate moment during rapidly evolving crises. Using the RTD Framework (Reconstruction Through Dynamics), the paper develops a process-oriented analytical model for examining the temporal gap between emerging geopolitical conditions and institutional response. The framework explores how delayed recognition, institutional rigidity, fragmented information environments, and declining adaptive capacity contribute to systemic instability and ineffective governance outcomes. The article further proposes the RTD Index as an interpretive and analytical tool for assessing lag-time dynamics, threshold escalation, and temporal decision patterns within complex international crises. Combined qualitative field reports and quantitative socio-political indicators are conceptually integrated to support retrospective structural analysis and adaptive governance assessment. A retrospective examination of the Rwandan Genocide (1994) illustrates how failures in international intervention were not solely political, but also temporal. Retrospective analysis suggests that had the RTD Framework been applied systematically, early warning signals and escalating risk patterns may have been identified in a more actionable and institutionally coherent manner. The study also examines the relationship between temporal legitimacy, Article 39 of the United Nations Charter, preventive governance, and adaptive institutional reconstruction. Rather than advocating deterministic prediction models, the framework is designed to improve institutional timing, structural responsiveness, and adaptive coordination under conditions of accelerating global complexity. In the context of the UN80 reform process, the paper argues that sustainable institutional legitimacy depends not only on legal authority and structural reform, but also on the capacity of governance systems to act in time. The publication therefore recommends that future international reform initiatives consider the integration of temporal assessment mechanisms and advisory structures capable of evaluating systemic lag-time dynamics before crises escalate beyond institutional control. Keywords:Temporal Legitimacy, RTD Framework, RTD Index, UN80, Global Governance, International Law, Adaptive Governance, Institutional Timing, Systemic Risk, Preventive Governance, Reconstruction Through Dynamics",
       "topics": [
-        "credibility"
+        "legitimacy"
       ],
-      "score": 6,
-      "url": "https://doi.org/10.5281/zenodo.24044364"
+      "score": 31,
+      "url": "https://doi.org/10.5281/zenodo.20082431"
     },
     {
-      "title": "Assurance and ESG rating divergence can limit the informational value of sustainability disclosure mandates",
+      "title": "Religious Organisations, Humanitarian Action, Media, and the Changing Landscape of Global Governance",
       "authors": [
-        "Ramyashree M S",
-        "Sahanashree N",
-        "Pavithra Salanke",
-        "N. Jayashree"
+        "Azza M. Karam"
       ],
-      "date": "2026-11-07",
-      "venue": "Discover Sustainability",
-      "abstract": "Abstract Regulators increasingly treat disclosure quantity as the principal policy lever, assuming that more sustainability disclosure yields better-informed investors and more efficient capital allocation. This conceptual paper argues that the assumption is misspecified. Disclosure moves investor beliefs only insofar as it is credible, and credibility is manufactured downstream of the reporting entity, by assurance providers who verify and rating agencies who aggregate. We develop the construct of the credibility wedge, the gap between the quantity of sustainability information a firm discloses and the reliability investors attach to it. Drawing on costly state verification, cheap-talk and signalling models, ambiguity-based asset pricing and institutional theory, we specify a three-layer architecture of preparer, assurer and rater, each with a distinct failure mode. Twelve propositions connect regime design to the wedge, and the wedge to belief revision, the cost of capital and capital allocation. A two-by-two typology is derived and applied to the four architectures observable in 2026: the narrowed European regime, jurisdictions adopting IFRS S1 and S2, the United States, and India’s BRSR Core. As the wedge grows, the marginal informational return to additional disclosure tends to zero, implying that verification and rating infrastructure must be built before disclosure scope is widened. India offers an unusually favourable research setting, and eight estimable models are specified. For the 2030 Agenda, target 12.6 and its report-counting indicator track disclosure volume rather than decision-useful information, making credible verification a precondition for reporting to advance SDGs 12 and 13.",
+      "date": "2026-11-03",
+      "venue": "Routledge eBooks",
+      "abstract": "This chapter argues that the growing prominence of religious organisations in humanitarian action reflects a broader transformation in humanitarian governance rather than the emergence of a distinct “faith sector.” It examines how legitimacy, trust, partnership, and communication have become central to humanitarian practice, challenging conventional assumptions about secularisation and development. Drawing on scholarship and the author’s experience within the United Nations and international civil society, this chapter establishes the conceptual framework for this book by situating religious organisations within the evolving relationships among humanitarian action, media, multilateralism, and global governance.",
       "topics": [
-        "credibility"
+        "legitimacy",
+        "trust"
       ],
-      "score": 6,
-      "url": "https://doi.org/10.1007/s43621-026-05271-6"
+      "score": 30,
+      "url": "https://doi.org/10.4324/9781042023981-1"
     },
     {
-      "title": "EFFECT OF NIGERIA’S CULTURAL DIPLOMACY EFFORTS ON NIGERIA’S INTERNATIONAL IMAGE",
-      "authors": [],
-      "date": "2026-11-07",
-      "venue": "International Journal of Progressive Research in Engineering Management and Science",
-      "abstract": "DespiteNigeria's rich cultural heritage and globally recognised creative industries, the country's international image has not fully reflected the potential of its cultural diplomacy efforts.This study examined the effect of Nigeria's cultural diplomacy efforts on Nigeria's international image, with particular emphasis on international cultural exchange programmes and the promotion of Nigerian cultural and creative industries.A qualitative research approach, employing a phenomenological research design, was adopted.Data were collected through face-to-face semi-structured interviews with eight purposively selected officials from the Federal Ministry of Art, Culture, Tourism and the Creative Economy who possessed direct knowledge of Nigeria's cultural diplomacy initiatives.The interview data were transcribed verbatim and analysed using thematic analysis.The findings indicated that international cultural exchange programmes enhanced mutual understanding, strengthened peopleto-people relations, and contributed positively to Nigeria's international image through sustained cultural engagement.The study also found that the promotion of Nigerian cultural and creative industries, particularly music, film, fashion, literature, and the visual arts, significantly increased the country's global visibility and reinforced positive international perceptions despite existing implementation challenges.The study concluded that a well-coordinated cultural diplomacy strategy remains essential for strengthening Nigeria's international reputation and recommended expanding cultural exchange programmes and providing sustained institutional support for the international promotion of Nigeria's creative industries.",
+      "title": "Replication Data for: Global Governance Unbound? Measuring the Scope of IO Activities",
+      "authors": [
+        "Allison Sovey Carnegie",
+        "Seowoo Chung",
+        "Richard Clark"
+      ],
+      "date": "2026-10-16",
+      "venue": "Harvard Dataverse",
+      "abstract": "While international organizations (IOs) are frequently criticized for both overreach and underperformance, these debates often rest on anecdotal evidence. This article addresses the empirical gap by introducing a novel method to systematically measure changes in the scope of IO activities over time. We develop a text-as-data approach that analyzes the thematic coverage of IO research outputs to trace the evolution of institutional priorities and competencies. Applying this method to the International Monetary Fund and Asian Development Bank, we show that these IOs have expanded their substantive focuses, increasingly engaging with new global challenges. We also highlight important differences in their trajectories. This approach offers a scalable and replicable framework for tracking IO agenda evolution across institutions and over time. We conclude by outlining how this methodology can inform broader debates on IO legitimacy, effectiveness, and the adaptive capacity of global governance institutions.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.7910/dvn/mjtjvo"
+    },
+    {
+      "title": "United Nations: Global Governance or Dual Hierarchy Arena?",
+      "authors": [
+        "Hüsna Taş Yetim"
+      ],
+      "date": "2026-09-24",
+      "venue": "Unspecified venue",
+      "abstract": "of scholars. The UN was established after World War II to provide world peace and security. However, despite its notable progress, there are growing concerns about its capacity to address major crises, particularly in light of the ongoing conflicts in Ukraine (since February 24, 2022) and Gaza (2023-2025). So far, most analyses have focused on bureaucratic inertia, flaws in institutional design, or ongoing political divisions among member states. While acknowledging these factors, this study foregrounds an overlooked dynamic: the intensifying rivalry between the United States and China within the UN, which has generated what this paper conceptualizes as a dual hierarchy. Drawing on literature on hierarchy in international relations, the article defines a dual hierarchy as a situation in which two major powers simultaneously seek to legitimize their leadership through competing discursive, institutional, and strategic practices. The study argues that the intensification of the rivalry between the United States and China has transformed the UN from a forum for collective decision-making into a contested arena of authority. By analyzing the behaviors and rhetorical strategies of the United States and China during the wars in Ukraine and Gaza, the study demonstrates how the dual hierarchy obstructs collective decision-making, deepens institutional paralysis, and erodes perceptions of the UN’s legitimacy.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.53478/tuba.978-625-6110-87-8.ch09"
+    },
+    {
+      "title": "The politics of collaborative global governance : organisational positioning in IMF-World Bank collaboration.",
+      "authors": [
+        "Matthias Kranke"
+      ],
+      "date": "2026-09-14",
+      "venue": "Warwick Research Archive Portal (University of Warwick)",
+      "abstract": "This thesis studies the collaborative activities of two of the most prominent international organisations of the contemporary era, the International Monetary Fund (IMF) and the World Bank. Drawing on ninety-five interviews with organisational officials and other policy actors, as well as an analysis of key documents, I argue that competing normative expectations, especially from their membership, induce the Bretton Woods institutions to collaborate where necessary and remain distinctive as much as possible. However, regular collaboration tends to make organisations more similar to each other. The IMF and the World Bank resolve this challenge to their procedural legitimacy by employing symbolic actions as signals of distinctiveness while continuing inter-organisational collaboration. Symbolic reforms (and, sometimes, less costly alternatives) allow them to claim policy niches for the purpose of organisational differentiation. I develop this argument in case studies of IMF- World Bank collaboration in three areas: (1) crisis lending, (2) financial sector surveillance and (3) concessional lending and debt relief. Through the analysis of the collaborative activities between two influential international organisations, the research in this thesis contributes novel insights into the cultural underpinnings of the Bretton Woods institutions. The analysis extends constructivist accounts of international organisations by suggesting that contemporary notions of their agency are rooted in shared norms about what these organisations should do or should not do.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.82444/warw.33755593"
+    },
+    {
+      "title": "The Board of Peace and the Constitutional Structure of the United Nations: Between Institutional Adaptation and Constitutional Fragmentation",
+      "authors": [
+        "Rangga Dwi saputra"
+      ],
+      "date": "2026-08-28",
+      "venue": "Lex journal kajian hukum dan keadilan",
+      "abstract": "This study analyses the constitutional status of the Board of Peace (BoP) within the organizational structure of the United Nations (UN) as an international organization that carries out peace and security functions outside the framework of the UN Charter. This study employs a normative legal method using statute, conceptual, historical, and comparative approaches through an analysis of the UN Charter, the Charter of the Board of Peace, decisions of the International Court of Justice (ICJ), and legal doctrine. The results of the study indicate that the BoP is not a subsidiary organ of the UN because it derives its authority from its own founding Charter. The legality of the BoP must be assessed based on the constitutional limits of the UN Charter regarding the division and exercise of international peace and security functions. This study concludes that BoP possesses constitutional legitimacy only when it operates as an implementing instrument under the mandate and supervision of the Security Council. Conversely, the autonomous exercise of its authority has the potential to cause constitutional fragmentation within the UN’s collective security system.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.25139/lex.v10i3.12749"
+    },
+    {
+      "title": "Sovereign Equality of States within the United Nations: Principles, Practices, and Paradoxes",
+      "authors": [
+        "Faniriana RAKOTOZAFY RAVAONOELITIANA",
+        "Josette Aline RASOAFARA"
+      ],
+      "date": "2026-08-02",
+      "venue": "Asia Africa Regulatory Development Review",
+      "abstract": "The principle of sovereign equality is a cornerstone of international law and fundamental for the proper functioning of the concert of nations, ensuring respect for interstate relations and the maintenance of international peace and security. The United Nations (UN) places this principle at the forefront of all others outlined in its Charter. This study aims to critically examine the application of sovereign equality within the UN framework, analyzing both its formal recognition and the challenges to its practical implementation. Employing a doctrinal and analytical approach, this research scrutinizes key provisions of the UN Charter, historical developments from the Treaties of Westphalia to the League of Nations, and relevant international legal instruments. It investigates how the UN has sought to ensure effective respect for this principle, while acknowledging that its strict application is often unfeasible in the contemporary global landscape. Findings reveal that despite the UN's commitment to sovereign equality, there are instances where the principle appears to be poorly respected or even disregarded within the organization. This is particularly evident in areas such as the structure of the Security Council, notably the right of veto, which generates claims and proposals for reform of this universal international organization responsible for global peace and security. The analysis highlights inherent tensions between the theoretical ideal of equality and the practical realities of power dynamics among states. In conclusion, while an absolute application of sovereign equality might be impossible, its consistent erosion threatens the UN's legitimacy and effectiveness. The principle remains indispensable for maintaining international order, but its practical challenges necessitate ongoing debate and potential reforms to strengthen its effective implementation for a more equitable global governance.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://openalex.org/W7221228353"
+    },
+    {
+      "title": "Multilateralism Under Pressure: International Organizations and Great Power Rivalry in a Fragmented World",
+      "authors": [
+        "Mohamad Ichsana Nur"
+      ],
+      "date": "2026-07-23",
+      "venue": "Pen of Global Politics",
+      "abstract": "Multilateralism remains a central feature of international order, yet international organizations now operate in an environment increasingly shaped by strategic rivalry and political fragmentation. As competition among major powers intensifies, shared institutions face growing pressure over authority, legitimacy, procedural fairness, and institutional direction. The purpose of this article is to examine how great power rivalry reshapes the role and political meaning of international organizations in a fragmented world. The article employs a qualitative research design based on document analysis and is guided by an order-based analytical framework that links multilateralism, institutional contestation, and fragmented governance. Data are drawn from international organization reports, official resolutions, summit declarations, policy documents, diplomatic records, and scholarly sources relevant to global governance and great power competition. The analysis focuses on institutional authority, strategic engagement, procedural inclusion, rivalry within multilateral settings, and the consequences of fragmentation for global order. International organizations remain active and politically relevant, but their authority is increasingly conditional, contested, and shaped by selective engagement from major powers. Multilateralism persists as an important mode of governance, yet it operates under altered political conditions in which cooperation and rivalry coexist within the same institutional arenas. The article contributes to the field by integrating debates on international organizations with a broader understanding of fragmented order and strategic contestation in world politics.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.67793/pgp.v1i1.31"
+    },
+    {
+      "title": "Introduction",
+      "authors": [
+        "Simon Arthur Chesterman",
+        "Ian Johnstone",
+        "Blanca Montejo"
+      ],
+      "date": "2026-07-15",
+      "venue": "Oxford University Press eBooks",
+      "abstract": "This book is designed for students of international law and international relations studying the United Nations. By examining primary materials focused on the normative context within which the United Nations operates, students will develop an understanding of the interaction among law, politics, and practice. This is essential not only to a proper understanding of the United Nations, but also to the possibilities and limitations of multilateral institutions more generally. A central theme of this book is the interaction between law and politics, the subject of a growing body of international law/international relations scholarship.1 Our contention is both that international law has an impact on how political choices are made, and that those choices have an impact on how the law develops. From the legal side, international lawyers increasingly look to different strands of international relations theory to help explain lawmaking and law compliance. Thus, a political realist would point to the dominance of the most powerful states in crafting treaties or resolutions and enforcing compliance. A neoliberal institutionalist would look at the reduced transaction costs of operating within international organizations, and the impact of reputational factors on the behavior of member states of an international organization. A social constructivist would focus on ideas and identity, seeking to trace how states become socialized to norms through their interactions in international organizations, and how those norms become internalized in domestic processes. Critical theorists examine how the law masks the power asymmetries and inequities in international relations and seeks to make the existing international order seem natural and inevitable rather than a product of historical circumstances.",
       "topics": [
         "reputation"
       ],
-      "score": 6,
-      "url": "https://doi.org/10.58257/ijprems54570"
+      "score": 30,
+      "url": "https://doi.org/10.1093/9780198976172.002.0007"
     },
     {
-      "title": "Geopolitical Shock and Deferred Development: The 2026 U.S. Midterms, the Strait of Hormuz, and Iran's Institutional Resilience",
+      "title": "The Transformation of State Sovereignty under Global Governance",
       "authors": [
-        "hamidreza safari",
-        "Safari Hamidreza"
+        "Azar Guliyev"
       ],
-      "date": "2026-11-07",
+      "date": "2026-07-10",
+      "venue": "Akademik Tarih ve Dusunce Dergisi",
+      "abstract": "This study critically examines the transformation of state sovereignty in the context of global governance and interstate cooperation. Traditionally rooted in the Westphalian principles of territorial authority and non-interference, sovereignty has been increasingly reshaped by globalization and the growing need for collective responses to transnational challenges, including climate change, pandemics, cyber threats, and economic interdependence. Adopting a qualitative, interpretive-conceptual research design, the study analyzes illustrative examples from major international institutions, including the United Nations, the World Trade Organization, the European Union, and NATO, to demonstrate how institutional participation reconfigures the exercise of sovereign authority. It argues that international agreements, multilateral regimes, and transnational norms increasingly influence domestic policymaking, not by diminishing sovereignty but by transforming its practical operation. Cases such as the European Convention on Human Rights, the Paris Agreement, and the COVAX initiative illustrate how states voluntarily undertake international commitments that strengthen both their legitimacy and strategic capacity. The study further demonstrates that small and developing states can enhance their international influence through regional integration and multilateral cooperation. It concludes that contemporary sovereignty is best understood as the capacity to participate in, shape, and benefit from global governance while safeguarding national interests.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.46868/atdd.2026.1178"
+    },
+    {
+      "title": "Extending the Sphere of Deliberation in Universal International Organizations: An Alternative to the Elusive Democratic Representation in/by International Organizations",
+      "authors": [
+        "Évelyne Lagrange"
+      ],
+      "date": "2026-07-08",
+      "venue": "Cambridge University Press eBooks",
+      "abstract": "‘Democratic representation’ seems to have no explanatory power for the current structure and operation of universal IOs and a weak justificatory value for upcoming political reforms of these IOs. However, under the benefit of a renewed approach to universal IOs functions and deliberation, which is one of their meta-functions, the creation of new subsidiary bodies designed to accommodate delegates from Non-State Actors (NSAs) and enable, or even compel, intergovernmental bodies to take into account other interests and perspectives appears to be both necessary and feasible, without any reference to contentious criteria of representativeness based on a fragile principle of democratic legitimacy in IL. The alternative to ‘democratic representation’ consists in amplifying diffuse attempts to redesign the institutional architecture of universal IOs and harnessing the potential of international institutional law, implied powers and privileges and immunities regimes for the sake of a genuinely international, transnational and transgenerational deliberation. Concretely, people speaking for sub-state communities (e.g. from the Global South), future generations or natural entities for instance should be given an institutional role within consultative subsidiary bodies, in combination with state representatives or scientific experts, or not – depending on what is necessary for the fulfilment of the IOs functions. The current context of exacerbated competition between more democratic and less democratic states, some of them obviously being authoritarian, also pleads for a modest approach to IOs political reform leaving the concept of democracy unaltered.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.1017/9781009710558.015"
+    },
+    {
+      "title": "Before the vote: informal diplomacy and positioning on Artificial Intelligence in the United Nations Security Council",
+      "authors": [
+        "Diletta Fabiani"
+      ],
+      "date": "2026-07-05",
+      "venue": "Journal of Economic Policy Reform",
+      "abstract": "Artificial Intelligence (AI) has recently entered the agenda of the United Nations Security Council (UNSC), raising questions about governance models, legitimacy, and geopolitical alignments. This paper analyzes early-stage UNSC discourse on AI through qualitative content analysis of meeting records and correspondence (2023–2025). Findings reveal informal alignments among permanent members on seven themes, including multilateralism versus multi-stakeholderism and Global North – South divides, and consensus on human control over lethal autonomous weapons. These dynamics show how informal diplomacy can shape future governance frameworks on emerging technologies, and can guide norm-setting and capacity-building, helping inclusivity and inequality reduction in global governance.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.1080/17487870.2026.2689936"
+    },
+    {
+      "title": "DELISTING PRACTICE FROM SANCTIONS LISTS: ANALYSIS OF SUCCESSFUL CASES",
+      "authors": [
+        "Sergei Khrabrykh",
+        "ARGA Observatory",
+        "ARGA Atlas"
+      ],
+      "date": "2026-06-27",
       "venue": "Zenodo (CERN European Organization for Nuclear Research)",
-      "abstract": "This paper examines the interaction between geopolitical shocks and domestic institutional resilience in Iran, using the 2026 U.S. midterm elections and the disruption of the Strait of Hormuz as a focal case. It advances two linked propositions. First, a change in congressional control—even a dramatic one—does not by itself establish a durable transformation in U.S. strategic preferences toward Iran, as the Associated Press report on the 2026 midterms documents a decisive electoral rebuke without establishing any lasting strategic realignment. Second, prolonged deferral of citizens’ welfare, economic rights, and political participation in the name of external resistance can weaken the social and institutional foundations on which national resilience depends, a mechanism consistent with North’s institutional framework. The analysis is a theory-guided, qualitative interpretation of publicly reported election outcomes and energy-route exposure; it does not claim to establish a causal link between the Hormuz crisis and election results. The Associated Press attributes Republican losses to a combination of voter frustration, high prices, the Iran war, and concerns about corruption, while U.S. Energy Information Administration data establish the strait’s pre-crisis importance to global energy flows, and reported 2026 energy-market developments document the associated price disruption. The paper argues that tactical leverage and domestic coercion are both unreliable substitutes for durable legitimacy and institutional adaptability. It concludes with policy recommendations centered on contingency planning, transparent prioritization, measurable welfare commitments, accountable governance, and expanded channels for peaceful political participation. Keywords: Iran; U.S. midterm elections; Strait of Hormuz; energy security; institutional capacity; deferred development; authoritarianism; Crisis+1. Suggested description: A theory-guided analysis of how external geopolitical shocks and the postponement of domestic welfare and rights interact to shape institutional resilience in Iran, grounded in documented 2026 election outcomes and energy-route exposure and in institutional theory.",
+      "abstract": "This report is devoted to the practice of delisting, that is, the removal of individuals and legal entities from sanctions lists, as well as to the analysis of legal approaches that make it possible to successfully challenge individual sanctions designations. The focus is on the sanctions regimes of the European Union, the United Kingdom, the United States of America and the United Nations, since these systems form the most significant international practice concerning personal sanctions, asset freezes, travel restrictions, banking compliance and judicial review. The practical purpose of this document is to show that delisting is not an exclusively political or diplomatic process. It can be structured as a legal procedure based on evidence, changed circumstances, factual rebuttal of the ground for listing, mistaken identity, loss of control over assets, termination of links with a regime or violation of defence rights. The report examines successful delisting cases not as a set of isolated precedents, but as an expression of a broader pattern: sanctions authorities have broad discretion when including persons in lists, but this discretion is not unlimited. Even in the field of foreign policy, states and international organizations are required to respect minimum guarantees of fair procedure, individualized reasoning, proportionality and judicial review. For ARGA, this topic is of strategic importance because sanctions status increasingly affects not only assets, but also migration status, corporate governance, extradition risks, international search, banking relationships, family property, reputation and access to legal defence. In this context, delisting is not merely removal from a list, but restoration of a person’s legal position within the international financial and legal system.",
       "topics": [
-        "legitimacy"
+        "reputation"
       ],
-      "score": 6,
-      "url": "https://doi.org/10.5281/zenodo.24032364"
+      "score": 30,
+      "url": "https://doi.org/10.5281/zenodo.20944966"
     },
     {
-      "title": "Building Equitable Partnerships Through the Africa–Europe Clusters of Research Excellence",
+      "title": "International Institutions in Decline? A Critical Analysis of Global Governance in an Era of Great-Power Rivalry",
       "authors": [
-        "Ernest Aryeetey",
-        "Emmanuel Adu-Danso"
+        "Sajjad Nazir",
+        "Syed Rizwan Haider Bukhari"
       ],
-      "date": "2026-11-07",
-      "venue": "Emerald Group Publishing Limited eBooks",
-      "abstract": "The African Research Universities Alliance (ARUA) represents one of the continent’s most deliberate efforts to reconfigure African higher education and research through networked collaboration. Since its establishment in 2015, ARUA has positioned itself as a continental platform for strengthening the research capacities of African universities, developing high-quality human capital and promoting African leadership in global knowledge production. This chapter examines ARUA’s partnership with The Guild of European Research-intensive Universities (The Guild), which has led to the formation of the Africa–Europe Clusters of Research Excellence (CoRE). The partnership represents a new model of cross-regional collaboration anchored in co-creation, equity and mutual benefit – one that transcends donor–recipient models and promotes a more inclusive global research ecosystem. This chapter traces the evolution of ARUA’s partnership with The Guild, its rationale, governance structure and early outcomes. It highlights the emerging evidence of impact in research capacity, policy influence and institutional legitimacy, while interrogating the ongoing challenges of achieving equity within global research partnerships. It argues that the CoRE initiative exemplifies a new paradigm of co-creation and shared leadership between African and European research institutions. The analysis demonstrates how ARUA’s perspective reframes partnership models, contributing to the vision of the African Global University (AGU) as an integrated, equitable actor in global scientific progress and sustainable development.",
+      "date": "2026-06-20",
+      "venue": "Physical Education Health and Social Sciences",
+      "abstract": "Renewed great power rivalry, geopolitical fragmentation and divergent visions of the international order are putting global governance under greater pressure. This article considers questions about leading institutions - the United Nations, World Trade Organization, International Monetary Fund, and World Health Organization - whether they are suffering from an institutional decline or strategic adaptation. The study assesses their performance in the fields of security, trade and finance, public health and environmental governance using a qualitative and analytical approach. It suggests that the geopolitical rivalry between the United States and China and the amalgamation of the two powers with Russia have aggravated not only the intergovernmental paralysis but also legislative and executive complacency, doubts regarding the legitimacy of the rules and arrangements, and other parallel governance structures. The continued role of these bodies in offering forums, rules and coordination mechanisms have diminished in areas where major power interests come into conflict. The results show that institutional decline is not absolute, however. The final conclusion is that the success of multilateral governance depends on representative reform, on flexibility in procedures, on accountability, and on mechanisms important in limiting rivalry and maintain cooperation on common global problems.",
       "topics": [
         "legitimacy"
       ],
-      "score": 6,
-      "url": "https://doi.org/10.1108/978-1-83742-123-720261006"
+      "score": 30,
+      "url": "https://doi.org/10.63163/jpehss.v4i2.1453"
     },
     {
-      "title": "What Do You Understand by the Concept of 'State'? A Study of the State as Conceived Under Socialist and Capitalist Social Formations",
+      "title": "INTERNATIONAL SECURITY MANDATE: A BICAMERAL UNITED NATIONS FOR NUCLEAR DISARMAMENT OF THE NORTH KOREAN REGIME",
       "authors": [
-        "Aroyewun Abimbola Tirmidhi"
+        "STEVE BLACK"
       ],
-      "date": "2026-11-06",
-      "venue": "International Journal of innovative inventions in Social Science and Humanities",
-      "abstract": "The concept of the state is among the most contested in political science and sociology. This paper examines how the state is conceived within capitalist and socialist social formations, tracing differences in their theoretical foundations, institutional mechanisms and political purposes. It reviews liberal, pluralist and neoliberal accounts of the capitalist state alongside Marxist critiques from Gramsci, Althusser, Miliband and Poulantzas, and then considers socialist state theory and practice through the Soviet, Yugoslav, Cuban and Vietnamese experiences and reformist, anarchist and market socialist alternatives. A comparative analysis addresses economic relations, democracy and participation, social rights, ideological legitimation, and the question of reform versus revolution. The paper further considers how globalization, technological change and ecological crisis challenge both traditions. It argues that neither capitalist nor actually existing socialist states have fully realized their theoretical ideals, and that the enduring value of the comparison lies in showing how political forms relate to economic structures and in opening possibilities for more democratic, egalitarian and sustainable arrangements.",
+      "date": "2026-06-07",
+      "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+      "abstract": "This paper demonstrates the specific mechanism by which the Bicameral United Nations reform, previously proposed by the author, would enable the peaceful nuclear disarmament of the Democratic People’s Republic of Korea if implemented. The paper does not re-argue the empirical foundation: the crimes-against-humanity documentation, the veto-based blocking pattern, and the nuclear-arsenal expansion are established in existing literature and are here treated as premises rather than as objects of argument. The paper’s contribution is operational. The current international-security architecture blocks every DPRK-accountability mechanism at a single point — the Security Council veto. This single-point blocking has been fully weaponised as an impunity shield.2 The Bicameral United Nations reform removes the single-point blocking structure by introducing an Assembly of Peoples for population-legitimacy grounding, a Council of States operating under liability-based rather than veto-based blocking, and Charter-consistent linkage to the International Criminal Court. The paper demonstrates the specific mechanism by which each currently-blocked accountability action becomes procedurally available under the reformed architecture: standing inquiry, individual sanctions on named leadership, humanitarian corridors, ICC referral, arrest warrants, universal-jurisdiction cascade, and asset seizure. The paper further proposes a new transition category — the Constructed-Conditions Multi-Patron-Sponsored Transition — applicable to totalitarian-nuclear-outlier states where the enabling conditions for peaceful transition must be engineered rather than found. Six constitutive mechanisms are developed: patron-cost inversion, elite-fracture facilitation, nuclear-arms transition architecture reversing the Iraq-Libya lesson, integrated Chinese role as facilitator and guarantor, victim-reparation architecture with non-negotiable coupling to elite shielding, and honestly-acknowledged extended timeline. Kim Jong-un is excepted from elite-shielding under the framework’s own conditions applicable to principals responsible for jus cogens-level violations. The paper argues that the reformed architecture, if implemented, plausibly compresses the DPRK case from indefinite institutional blockage to a staged accountability-and-transition pathway measured in years rather than generations. Under scenario estimation drawing on ICC case-timeline precedent and comparable transition timeframes, the paper offers a four-to-seven-year estimate for the fuse from framework operation to formal International Criminal Court action against Kim personally, with the caveat that this remains a conditional projection rather than a demonstrated result. The paper is presented as the fourth volume in the author’s proposed reform of the international order, completing the trilogy of Bicameral United Nations Proposal, Dual-Key Legitimacy Framework, and Beyond the East-West Divide as a tetralogy. The volume is offered as a functional demonstration paper: the reformed architecture is not aspirationally desirable but functionally necessary for the peaceful neutralisation of an active nuclear threat that current architecture has demonstrably failed to address.",
       "topics": [
         "legitimacy"
       ],
-      "score": 6,
-      "url": "https://doi.org/10.58806/ijiissh.2026.v3i11n01"
+      "score": 30,
+      "url": "https://doi.org/10.5281/zenodo.21227628"
     },
     {
-      "title": "Environmental Disclosure Research Revisited: A Bibliometric–TCCM Synthesis of Theoretical Integration and Methodological Diversification",
+      "title": "The Local Lives of International Organizations: Towards a Research Agenda on International Organizations “in the Field”",
       "authors": [
-        "Sanketkumar Babubhai Vachhani",
-        "Dineshkumar Ramjibhai Chavda",
-        "Vinitkumar Jagdishprasad Varma",
-        "Bhavsinh M. Dodia",
-        "Ruchi Tiwari",
-        "Harshitaben Dineshbhai Suva"
+        "Nele Kortendiek",
+        "Antonia Witt"
       ],
-      "date": "2026-11-06",
-      "venue": "Business Strategy and the Environment",
-      "abstract": "ABSTRACT This study examines the evolution and determinants of corporate environmental disclosure research through a systematic review of 117 peer‐reviewed articles published from 2016 to 2026 in Scopus. Using the PRISMA 2020 protocol and the SPAR‐4‐SLR framework, a bibliometric analysis was conducted with Bibliometrix and VOSviewer, complemented by the Theory–Context–Characteristics–Method (TCCM) approach to map the intellectual structure, thematic development and research gaps. The findings indicate growing research output, rising markedly after 2023, with China leading in publication output and the United Kingdom attracting the greatest citation impact. Legitimacy, stakeholder and institutional theories dominate the field but are often used in parallel rather than integrated, while governance mechanisms and firm‐level characteristics show inconsistent associations across contexts. Thematic analysis identifies environmental reporting as the core theme, whereas disclosure quality, green innovation and performance outcomes remain underexplored. Future research should prioritise theoretical integration, disclosure quality measurement and methodologically diverse designs.",
+      "date": "2026-06-01",
+      "venue": "International Studies Review",
+      "abstract": "Abstract International organization (IO) studies exhibit a curious blind spot: They rarely theorize or investigate empirically what IOs do and effect “in the field.” Since IO research from rational-choice and constructivist traditions largely focuses on IO-state relations and bureaucratic politics at headquarters, the operational stage of global governance is rarely conceptually accounted for as a policymaking arena and a constitutive element of IOs. In this analytical essay, we map pathways towards a new research agenda on IOs that takes “the field” seriously. We argue and show that studying IOs from a field perspective requires rethinking the sites and boundaries of IOs, drawing analytical attention to previously neglected actors, interests, practices, and logics of action. In developing this argument, we build on two established strands of research: First, studies on street-level bureaucracy and transnational professionals, which investigate everyday decision-making by regular staff members. Second, research on the anthropology of development and peacebuilding, which highlights social, meaning-making processes in concrete, local settings. We connect their insights to established literatures on IOs around three conceptual “docking stations”: agency, change, and authority. We conclude by sketching a taxonomy with three avenues for future research on organizational structures and cultures, policies and procedures, as well as power and legitimacy. This shift in perspective unlocks new empirical research fields and extends conceptual and methodological approaches of IO studies, building the ground for an emerging field of study in International Relations that will allow us to fully understand IOs through the drivers, dynamics, and consequences of their local lives.",
       "topics": [
         "legitimacy"
       ],
-      "score": 6,
-      "url": "https://doi.org/10.1002/bse.71824"
+      "score": 30,
+      "url": "https://doi.org/10.1093/isr/viag011"
+    },
+    {
+      "title": "Critical Geopolitics of Decolonization: The Indonesian Question at the United Nations Security Council, 1947",
+      "authors": [
+        "Stempler Ádám"
+      ],
+      "date": "2026-05-31",
+      "venue": "Pólusok",
+      "abstract": "Between 31 July and 25 August 1947, the United Nations Security Council debated the Dutch “police action” in Indonesia – the first major armed confrontation between the Netherlands and the Republic of Indonesia since its 1945 declaration of independence. The outbreak of hostilities prompted Australia and India to bring the issue to the UNSC, framing it as both a threat to international peace and a matter of decolonization and self-determination. Drawing primarily on Ó Tuathail’s framework of critical geopolitics, this paper analyzes the debate as a set of discursive performances and geopolitical scripts that produced and contested geopolitical meaning in the early postwar order. Through close textual analysis of official meeting records and adopted resolutions, the study focuses on how the representatives of the Netherlands, Australia, and India articulated competing visions of world order and claims to legitimacy. By situating these historical debates within broader patterns of North–South relations and the construction of state authority, the study highlights how early postwar discourses continue to inform contemporary understandings of global power, legitimacy, and the role of critical geopolitical narratives in shaping international relations.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.15170/psk.2026.si.01.11"
+    },
+    {
+      "title": "The United Nations in Multipolar Security Governance",
+      "authors": [
+        "Vardan Atoyan",
+        "Nushik B. Petrosyan"
+      ],
+      "date": "2026-05-11",
+      "venue": "National Security Journal of National Defence University-Kenya",
+      "abstract": "This paper critically reassesses the role of the United Nations (UN) in international security governance amid the ongoing transition from a unipolar to a multipolar global order. As power becomes increasingly dispersed and strategic competition intensifies, multilateral institutions face mounting challenges related to effectiveness, legitimacy, and operational relevance. Using the UN as a case study, the article examines how structural rigidity, paralysis in decision-making within the Security Council, and contested interpretations of international law constrain the organisation’s capacity to respond to contemporary security crises. The study employs a qualitative case-based approach, focusing on the Black Sea region as a strategic space where great-power rivalry, regional instability, and hybrid threats intersect. Analysing UN engagement in the conflicts in Ukraine, Georgia, and the former Yugoslavia, the article identifies recurring patterns of veto-induced inaction, normative fragmentation, and limited crisis-management capacity, alongside an increasing reliance on regional and ad hoc security arrangements. The analysis argues that while the UN remains an indispensable forum for diplomatic engagement and normative coordination, its continued relevance in global security governance depends on pragmatic institutional adaptation. For defence and security policymakers, the findings highlight the importance of complementing UN-based multilateralism with flexible regional mechanisms in security environments shaped by multipolar rivalry and hybrid conflict dynamics.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.64403/h9329s04"
+    },
+    {
+      "title": "Institutional Engagement and Rule-Shaping in International Climate Governance: The Case of Saudi Arabia",
+      "authors": [
+        "Marene Chikri Madi"
+      ],
+      "date": "2026-05-08",
+      "venue": "SOAS Research Online (SOAS University of London)",
+      "abstract": "This thesis examines how a hydrocarbon-dependent state engages with an international climate governance regime whose long-term objectives pose structural challenges to its economic model. Focusing on the Kingdom of Saudi Arabia’s participation in the United Nations Framework Convention on Climate Change (UNFCCC), the study addresses a central puzzle in contemporary global governance: how do materially exposed states sustain and, in some areas, deepen institutional engagement within regimes oriented toward long-term structural transition? Existing scholarship on oil-exporting states often emphasises obstruction, delay, or symbolic compliance in global climate governance. This thesis moves beyond such characterisations by analysing the institutional practices through which engagement is managed over time. Using a qualitative, interpretive single-case design, it reconstructs Saudi Arabia’s interaction with three core institutional mechanisms of the UNFCCC regime: transparency mechanisms, support architecture and iterative negotiation cycles. The analysis draws on Earth Negotiations Bulletin records covering the period from 1995 to 2023, complemented by a detailed examination of UNFCCC submissions and transparency-related documentation in the post-Paris period (2015–2023), as well as twelve semi-structured interviews with negotiators and experts. To interpret observed patterns of engagement, the thesis draws on and refines Neoliberal Institutionalism. It argues that in the context of hydrocarbon-dependent political economies, transparency functions as credibility signalling, transaction costs as sovereignty management and iteration as rule-shaping. Based on this, it advances the concept of ‘conditional integration’ to describe a mode of participation characterised by sustained institutional involvement combined with selective engagement and calibrated conditionality. The findings suggest that international institutions do not function solely as constraints on hydrocarbon-dependent states, but also as arenas through which such states manage exposure, shape institutional rules and preserve policy autonomy within evolving governance frameworks.",
+      "topics": [
+        "credibility"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.25501/soas.01026288"
+    },
+    {
+      "title": "Beynəlxalq hüquq pozuntusuna qarşı sanksiyaların anlayışı, təyinatı və rejimi",
+      "authors": [
+        "Nushaba Abberin"
+      ],
+      "date": "2026-04-22",
+      "venue": "Azerbaijani Lawyer Journal",
+      "abstract": "International organizations and states may resort to sanctions when necessary to ensure the stability of the international legal order. International sanctions are regarded as countermeasures against violations of international law and serve as a means of implementing international legal responsibility. The authorization of coercive measures in response to violations of international legal norms in international relations may be carried out by both judicial bodies and international organizations. In this regard, the rules governing the imposition of restrictive sanctions in international relations contain significant provisions aimed at weakening the military potential of the sanctioned state’s economy. However, although international sanctions are applied across broader dimensions, their effectiveness does not always reach the desired level. The article examines these issues and concludes that international sanctions cause significant damage to the economic system of the offending state, investment flows, various sectors of industry, individual entrepreneurs, and the reputation of companies. This situation inevitably leads to the emergence of social problems. In order to prevent international sanctions from serving the political interests of individual states, as well as to avoid violations of the principle of proportionality and the emergence of social or humanitarian crises, appropriate international legal frameworks must also be established. Keywords: International sanctions, UN International Court of Justice, Economic Sanctions, International Law, European Union.",
+      "topics": [
+        "reputation"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.61638/cswe3798"
+    },
+    {
+      "title": "Structural Inequality in Global Governance: The Underrepresentation of the Global South",
+      "authors": [
+        "Dr. Ikhlaq Ahmed"
+      ],
+      "date": "2026-03-25",
+      "venue": "The Asian Quarterly",
+      "abstract": "The rise of global governance agencies like the United Nations Security Council (UNSC), the International Monetary Fund (IMF), and World Bank, was due to the consequences of the Second World War to ensure peace, stability and economic order. Nonetheless, their institutional organization is based on the geopolitical realities of 1945 as opposed to the modern global distributions of power. This paper argues that there are structural inequalities that are inherent in the design, voting processes, and leadership structures of these institutions, and they lead to the systematic underrepresentation of the Global South. Although the emerging powers and the developing nations are playing a major role in the economic development of the world and the demographic weight, they are still playing a disproportionately less role in the decision making. Using the lenses of critical political economy, institutionalist and postcolonial views, this paper shows that the marginalization of Global South is not procedural but structural re-creating asymmetries of power and strengthening the dominance of the West. The paper aims to argue through qualitative examination of the institutional structures, the voting behavior, and the discussion of reforming global governance, that structural change is necessary instead of gradual change in order to achieve meaningful democratization of global governance. The results are relevant to the existing academic debate of legitimacy, multipolarity, and global institutional reform.",
+      "topics": [
+        "legitimacy"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.65813/aq/020107"
+    },
+    {
+      "title": "Moral Sanctions and the Evolution of Global Governance",
+      "authors": [
+        "Prof. Dr. Yoesoep Edhie Rachmad, Ph.D, DBA"
+      ],
+      "date": "2026-02-09",
+      "venue": "OSF eBooks",
+      "abstract": "The mechanisms of global governance have long been shaped by economic and political sanctions, but a critical dimension often overlooked is the role of moral sanctions in shaping international relations. This book delves into the philosophical and ethical considerations behind moral sanctions and their influence on global governance structures. Through a comprehensive exploration, Prof. Dr. Yoesoep Edhie Rachmad, Ph.D., DBA, presents a compelling argument on how moral imperatives have dictated the course of diplomacy, conflict resolution, and economic policies. Published in New York in 2013, this work challenges traditional perspectives by illustrating how moral frameworks can serve as tools of enforcement and regulation on the world stage. The book embarks on an intellectual journey that traces the historical evolution of moral sanctions, examines their contemporary applications, and forecasts their future role in a rapidly changing geopolitical landscape. By integrating philosophy, international relations, and ethics, the author offers a unique perspective on how morality has become an unspoken yet powerful force in global governance. In an era where economic sanctions dominate international policies, moral sanctions often operate in the shadows, subtly influencing decisions on war, trade, and diplomacy. Prof. Dr. Yoesoep Edhie Rachmad, Ph.D., DBA, explores the intricate ways in which morality has historically shaped the decisions of global leaders. The publication of this book in 2013 in New York marks a significant contribution to the field of global governance, offering new insights into the unseen forces shaping international policies. The concept of moral sanctions extends beyond legal and economic repercussions, embodying the collective judgment of the global community. Prof. Dr. Yoesoep Edhie Rachmad, Ph.D., DBA, defines these sanctions as intangible yet powerful forces that dictate reputational outcomes for nations and their leaders. The discussion navigates through the ethical principles that govern the legitimacy and effectiveness of such sanctions, reinforcing their impact on diplomatic interactions. The increasing reliance on soft power and reputational diplomacy has intensified the role of moral sanctions in global governance. Prof. Dr. Yoesoep Edhie Rachmad, Ph.D., DBA, critically examines case studies where moral sanctions have been the decisive factor in shaping international relations, revealing how public perception and ethical scrutiny can determine policy outcomes. Operational Principles Moral sanctions function through global media, public discourse, and the strategic positioning of moral arguments. Prof. Dr. Yoesoep Edhie Rachmad, Ph.D., DBA, investigates the principles that govern the execution of moral sanctions and their effectiveness compared to traditional economic or military measures. Indicators and Operational Variables The effectiveness of moral sanctions can be measured through shifts in public opinion, diplomatic decisions, and the alteration of international alliances. Prof. Dr. Yoesoep Edhie Rachmad, Ph.D., DBA, elaborates on the operational variables that determine the success of these sanctions, including media influence, cultural perception, and institutional frameworks. Determinant Factors Several factors influence the application and success of moral sanctions. Prof. Dr. Yoesoep Edhie Rachmad, Ph.D., DBA, identifies key elements such as public sentiment, the role of international organizations, and the ability of states to withstand reputational damage. Implementation and Strategic Considerations Applying moral sanctions requires strategic execution through diplomatic channels, media narratives, and grassroots advocacy. Prof. Dr. Yoesoep Edhie Rachmad, Ph.D., DBA, proposes methods to integrate moral considerations into global policies, ensuring ethical accountability without compromising political stability. Challenges, Supporting Factors, and Constraints While moral sanctions wield significant influence, they face obstacles such as misinformation, political bias, and inconsistent enforcement. Prof. Dr. Yoesoep Edhie Rachmad, Ph.D., DBA, evaluates both the supportive mechanisms and the impediments to effective moral sanctioning. Conclusion and Summary The evolution of global governance demands a reassessment of the tools available to enforce compliance and ethical conduct. Prof. Dr. Yoesoep Edhie Rachmad, Ph.D., DBA, concludes that moral sanctions will increasingly shape inte",
+      "topics": [
+        "legitimacy",
+        "reputation"
+      ],
+      "score": 30,
+      "url": "https://doi.org/10.17605/osf.io/jyzk2"
     }
   ],
   "monthly_summaries": {}
